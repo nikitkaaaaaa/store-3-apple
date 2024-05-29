@@ -28,3 +28,14 @@
   width: 30px;
   height: 30px;
 }
+.nav{
+  border: 1px solid orange;
+  display: flex;
+  width: 350px;
+  justify-content: space-between;
+  align-items: center;
+}
+.item_nav{
+  text-decoration: none;
+  color: black;
+}
