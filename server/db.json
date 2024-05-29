@@ -1,0 +1,180 @@
+{
+  "iphone": [
+    {
+      "id": 22,
+      "name": "Apple iPhone 15 Pro Max SIM 1 ТБ, «титановый белый»",
+      "rating": 8,
+      "price": 199990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/89e/100500_800_140cd750bba9870f18aada2478b24840a/5pupf1m2hem4u0fn7uzcon60oc7e2pqy.jpg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/198/100500_800_140cd750bba9870f18aada2478b24840a/2bwvch244v7b4nb31smby2d623jtxkxv.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Apple iPhone 15 Pro dual-SIM 256 ГБ, «титановый бежевый»",
+      "rating": 9,
+      "price": 135990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/e9d/100500_800_140cd750bba9870f18aada2478b24840a/roz3q9ha09ioo79s9ivcqorz8nlgsjyz.jpg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/1bc/100500_800_140cd750bba9870f18aada2478b24840a/5dsq7uegck3vejazutp4dcppt4904mjp.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Apple iPhone 15 Pro dual-SIM 256 ГБ, «титановый белый»",
+      "rating": 7,
+      "price": 135990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/fc3/100500_800_140cd750bba9870f18aada2478b24840a/juuv74fasn6rjyp5cu1cce04wz0ddba4.jpg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/269/100500_800_140cd750bba9870f18aada2478b24840a/4y23ln0wcaiv7bwz13nl26kiev5xerw9.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Apple iPhone 15 Pro Max dual-SIM 1 ТБ, «титановый синий»",
+      "rating": 10,
+      "price": 199990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/1d8/100500_800_140cd750bba9870f18aada2478b24840a/go5fuh8xzfdb0arnx4vk111n4upsem0b.jpg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/aa2/100500_800_140cd750bba9870f18aada2478b24840a/uxjg0eh0kzl53nh2ck0df6uvruz0ls8n.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Apple iPhone 15 Pro dual-SIM 256 ГБ, «титановый чёрный»",
+      "rating": 7,
+      "price": 135990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/0b1/100500_800_140cd750bba9870f18aada2478b24840a/j2dhec0qnh9vmohtfab4dkxl1je2tk1z.jpg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/5c6/100500_800_140cd750bba9870f18aada2478b24840a/5swnopd2wocrhvboxdno9o7dyhg05j1w.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Apple iPhone 15 dual-SIM 128 ГБ, синий",
+      "rating": 9,
+      "price": 87990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/c25/100500_800_140cd750bba9870f18aada2478b24840a/pdrstwmolnf74x6v2xzdinp1nbme5843.jpg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/db7/100500_800_140cd750bba9870f18aada2478b24840a/l1mxssfq91s7vihox1x3ybjzm1qabps0.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Apple iPhone 15 dual-SIM 256 ГБ, розовый",
+      "rating": 10,
+      "price": 105990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/b74/100500_800_140cd750bba9870f18aada2478b24840a/jnl9tres1gjuykvns7yw4571mdltq7zg.jpg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/76e/100500_800_140cd750bba9870f18aada2478b24840a/63wuvr9us2byll16bc4xb3fodkagoc56.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Apple iPhone 15 dual-SIM 128 ГБ, зеленый",
+      "rating": 5,
+      "price": 87990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/10d/100500_800_140cd750bba9870f18aada2478b24840a/atpo9z29n2xetsbbce4gcx01p6nn330u.jpg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/44a/100500_800_140cd750bba9870f18aada2478b24840a/ub0i5bdcel2tzsrho4mnuxu7gs81udio.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Apple iPhone 15 Plus dual-SIM 512 ГБ, желтый",
+      "rating": 8,
+      "price": 159990,
+      "mainImage": "Apple iPhone 15 Plus dual-SIM 512 ГБ, желтый",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/777/100500_800_140cd750bba9870f18aada2478b24840a/fq5llvq3eicu0q6fdbbevo2w24umuom1.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Apple iPhone 14 SIM 256 ГБ, (PRODUCT)RED",
+      "rating": 7,
+      "price": 92990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/66c/100500_800_140cd750bba9870f18aada2478b24840a/66cbe279307946bb9bb21d50a740e300.jpeg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/2d3/100500_800_140cd750bba9870f18aada2478b24840a/2d3d08da49afea72e0d064e06976b666.jpeg"
+    },
+    {
+      "id": 10,
+      "name": "Apple iPhone 14 dual-SIM 256 ГБ, «сияющая звезда»",
+      "rating": 4,
+      "price": 92990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/783/100500_800_140cd750bba9870f18aada2478b24840a/783fbde601580e743fcaf9403cf81ae9.jpeg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/4cd/100500_800_140cd750bba9870f18aada2478b24840a/4cdb915cc8372d9aed5f29552c45a9c0.jpeg"
+    },
+    {
+      "id": 11,
+      "name": "Apple iPhone 14 dual-SIM 128 ГБ, фиолетовый",
+      "rating": 6,
+      "price": 77990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/ad8/100500_800_140cd750bba9870f18aada2478b24840a/ad8b6005a70506a70fb50d03a6796a1a.jpeg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/7a2/100500_800_140cd750bba9870f18aada2478b24840a/7a215afcc31592470cb9c1f8ef22867a.jpeg"
+    },
+    {
+      "id": 12,
+      "name": "Apple iPhone 14 dual-SIM 128 ГБ, «тёмная ночь»",
+      "rating": 9,
+      "price": 77990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/89c/100500_800_140cd750bba9870f18aada2478b24840a/89c26dd95ff5d103e1ee7824ed0df6fd.jpeg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/3c9/100500_800_140cd750bba9870f18aada2478b24840a/3c9ed3695ef1c7f382cc00dea5174288.jpeg"
+    },
+    {
+      "id": 13,
+      "name": "Apple iPhone 14 dual-SIM 128 ГБ, голубой",
+      "rating": 6,
+      "price": 77990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/f25/100500_800_140cd750bba9870f18aada2478b24840a/f25558bc94b7f97c57994f69003a878a.jpeg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/876/100500_800_140cd750bba9870f18aada2478b24840a/876fb3c28140450d454197f6a71d5b65.jpeg"
+    },
+    {
+      "id": 14,
+      "name": "Apple iPhone 13, 256 ГБ, синий",
+      "rating": 5,
+      "price": 82990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/3d1/100500_800_140cd750bba9870f18aada2478b24840a/3d1341edca7a59f3e5701316a23eb9c9.jpg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/617/100500_800_140cd750bba9870f18aada2478b24840a/6175b243c5e2bf67dfc54a0260b16060.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Apple iPhone 13, 256 ГБ, «сияющая звезда»",
+      "rating": 7,
+      "price": 82990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/2f9/100500_800_140cd750bba9870f18aada2478b24840a/2f9c5a4bb084e6db1f13cd8a12c66650.jpg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/ea6/100500_800_140cd750bba9870f18aada2478b24840a/ea642218c7908699a1444ff9d8809016.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Apple iPhone 13, 128 ГБ, розовый",
+      "rating": 10,
+      "price": 67990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/2e6/100500_800_140cd750bba9870f18aada2478b24840a/2e6d51a3c3b9f9202b1a376d6398fe05.jpg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/f7a/100500_800_140cd750bba9870f18aada2478b24840a/f7a4516a82d4f46e55a29cf5a8ea6467.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Apple iPhone 13, 256 ГБ, зеленый",
+      "rating": 6,
+      "price": 82990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/cab/100500_800_140cd750bba9870f18aada2478b24840a/cab621a45fa07f0b771469f8bea17bbd.jpg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/38b/100500_800_140cd750bba9870f18aada2478b24840a/38b0a2893e4ff8b11548a15ca453a36a.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Apple iPhone 13, 256 ГБ, (PRODUCT)RED",
+      "rating": 5,
+      "price": 82990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/e73/100500_800_140cd750bba9870f18aada2478b24840a/e73ef4eda1700c8100d709ed83d38677.jpeg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/f18/100500_800_140cd750bba9870f18aada2478b24840a/f184b6686901a187e496d733f2afb5c2.jpeg"
+    },
+    {
+      "id": 19,
+      "name": "Apple iPhone 12, 128 ГБ, белый",
+      "rating": 7,
+      "price": 61990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/c1f/100500_800_140cd750bba9870f18aada2478b24840a/c1f3b2e420a2861d7402e5ef48c681d0.jpg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/6d0/100500_800_140cd750bba9870f18aada2478b24840a/6d0e6edd376d83b263e42e7750d1a867.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Apple iPhone 12, 128 ГБ, черный",
+      "rating": 5,
+      "price": 61990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/c8a/100500_800_140cd750bba9870f18aada2478b24840a/c8acdbf1d930f5ef2ac1ecf48c1cf792.jpg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/ba0/100500_800_140cd750bba9870f18aada2478b24840a/ba0e55fcbcfde8e6ec064f08b2112045.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Apple iPhone 12, 64 ГБ, белый",
+      "rating": 7,
+      "price": 55990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/d4b/100500_800_140cd750bba9870f18aada2478b24840a/d4ba8a5126d8685d45ad6f1e608dbaa6.jpg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/26f/100500_800_140cd750bba9870f18aada2478b24840a/26faaa5703e35dfc7087032917cf089d.jpg"
+    }
+  ]
+}
