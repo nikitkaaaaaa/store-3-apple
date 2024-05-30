@@ -177,7 +177,7 @@
       "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/26f/100500_800_140cd750bba9870f18aada2478b24840a/26faaa5703e35dfc7087032917cf089d.jpg"
     }
   ],
-  "ipad" : [
+  "ipad": [
     {
       "id": 23,
       "name": "Apple iPad Pro (M4, 2024) 13\" Wi-Fi 512 ГБ, «черный космос»",
@@ -214,7 +214,7 @@
       "id": 27,
       "name": "Apple iPad Air (2024) 13\" Wi-Fi 512 ГБ, синий",
       "rating": 6,
-      "price": 144990 ,
+      "price": 144990,
       "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/710/100500_800_140cd750bba9870f18aada2478b24840a/z6i4rr5jendv5dy4e5h3xivi3cl69p24.jpg",
       "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/56e/100500_800_140cd750bba9870f18aada2478b24840a/j0l5qfveaiohciv3n36edguu6ohjkks9.jpg"
     },
@@ -262,7 +262,7 @@
       "id": 33,
       "name": "Apple iPad Air (2024) 13\" Wi-Fi + Cellular 1 ТБ, синий",
       "rating": 6,
-      "price":189990 ,
+      "price": 189990,
       "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/b4b/100500_800_140cd750bba9870f18aada2478b24840a/sgczjwlc90qgbbwrltbpvio0fuxdl3oc.jpg",
       "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/2ab/100500_800_140cd750bba9870f18aada2478b24840a/ritoydq2pahzoxcvg1b8qqhuooxenkky.jpg"
     },
@@ -291,7 +291,7 @@
       "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/0cc/100500_800_140cd750bba9870f18aada2478b24840a/0e0xr6edf803evrtfd9m1tgmbedbsyds.jpg"
     }
   ],
-  "mac" : [
+  "mac": [
     {
       "id": 37,
       "name": "Apple MacBook Air 13\" (M3, 8C CPU/8C GPU, 2024), 8 ГБ, 256 ГБ SSD, «полуночный черный»",
@@ -336,7 +336,7 @@
       "id": 42,
       "name": "Apple MacBook Air 13\" (M2, 8C CPU/8C GPU, 2022), 8 ГБ, 256 ГБ SSD, «полуночный черный»",
       "rating": 8,
-      "price": 119990 ,
+      "price": 119990,
       "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/4dd/100500_800_140cd750bba9870f18aada2478b24840a/4dd1a382474ca2cfd0e70e916a356035.jpg",
       "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/dfe/100500_800_140cd750bba9870f18aada2478b24840a/dfe05ffdb0c76b8df54be4f6000ca351.jpg"
     },
@@ -352,7 +352,7 @@
       "id": 44,
       "name": "Apple MacBook Air (M1, 2020) 8 ГБ, 256 ГБ SSD, золотой",
       "rating": 4,
-      "price":89990 ,
+      "price": 89990,
       "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/f59/100500_800_140cd750bba9870f18aada2478b24840a/f59fb3d5787e41defdd74ae60b0c222b.jpg",
       "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/3be/100500_800_140cd750bba9870f18aada2478b24840a/3bee6eb7355b4c80d09f718a5aad2e96.jpg"
     },
@@ -368,7 +368,7 @@
       "id": 46,
       "name": "Apple iMac 24\" Retina 4,5K, M3 (8C CPU, 8C GPU, 2023), 8 ГБ, 256 ГБ SSD, синий",
       "rating": 8,
-      "price": 199990 ,
+      "price": 199990,
       "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/d17/100500_800_140cd750bba9870f18aada2478b24840a/oxgj07kjrgryz7a1cvmkkuvrc9hkkks2.jpg",
       "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/915/100500_800_140cd750bba9870f18aada2478b24840a/ypwve2ebopn90i97v192qn4plx2ytq6o.jpg"
     },
@@ -445,7 +445,7 @@
       "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/1d2/100500_800_140cd750bba9870f18aada2478b24840a/hqk51xl87jbnskfrz48zycjeo9441pb7.jpg"
     }
   ],
-  "watch" : [
+  "watch": [
     {
       "id": 56,
       "name": "Apple Watch Ultra 2 GPS + Cellular, 49 мм, корпус из титана, ремешок Ocean синего цвета",
@@ -458,7 +458,7 @@
       "id": 57,
       "name": "Apple Watch Ultra 2 GPS + Cellular, 49 мм, корпус из титана, ремешок Ocean оранжевого цвета",
       "rating": 8,
-      "price":99990 ,
+      "price": 99990,
       "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/428/100500_800_140cd750bba9870f18aada2478b24840a/ffiuw33bd4ubwampe8sjqe4s14w55k3j.jpg",
       "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/abd/100500_800_140cd750bba9870f18aada2478b24840a/l3i568yjmuh661vwdjgihmcxlanbamp9.jpg"
     },
@@ -506,7 +506,7 @@
       "id": 63,
       "name": "Apple Watch Series 9, 41 мм, корпус из алюминия цвета «сияющая звезда», спортивный ремешок цвета «сияющая звезда», размер S/M",
       "rating": 8,
-      "price":47990 ,
+      "price": 47990,
       "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/2f2/100500_800_140cd750bba9870f18aada2478b24840a/xtqwa6e5w99kv843tqj4wp2l9eb5ekw6.jpg",
       "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/21b/100500_800_140cd750bba9870f18aada2478b24840a/382m3q4w4mzkyvu2w2b79wf4ga2q7d2g.jpg"
     },
@@ -554,7 +554,7 @@
       "id": 69,
       "name": "Apple Watch Series 9, 45 мм, корпус из алюминия цвета (PRODUCT)RED, спортивный ремешок цвета (PRODUCT)RED, размер M/L",
       "rating": 8,
-      "price": 50990 ,
+      "price": 50990,
       "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/392/100500_800_140cd750bba9870f18aada2478b24840a/4rzitsau18zyhfmwxcl08im7y3rxrft0.jpg",
       "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/566/100500_800_140cd750bba9870f18aada2478b24840a/eostrs17nd00sxskk2msml6uwehspzws.jpg"
     },
@@ -599,7 +599,7 @@
       "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/352/100500_800_140cd750bba9870f18aada2478b24840a/352fd8650dfd34a390bd9c690eef3f16.jpeg"
     }
   ],
-  "accessories" : [
+  "accessories": [
     {
       "id": 75,
       "name": "Умная колонка Яндекс Станция Дуо Макс с Zigbee, бежевый",
@@ -692,7 +692,7 @@
       "id": 86,
       "name": "Беспроводные наушники Sony WF-C500, белый",
       "rating": 7,
-      "price":7990 ,
+      "price": 7990,
       "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/ff0/100500_800_140cd750bba9870f18aada2478b24840a/rxguqu47iyqqk3biunr9x579djvltaj0.jpg",
       "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/3a1/100500_800_140cd750bba9870f18aada2478b24840a/g8f3mb9i89eq6wm6tplvv2cb3nrvytyn.jpg"
     },
@@ -756,7 +756,7 @@
       "id": 94,
       "name": "Кабель Apple USB‑C/Lightning, 1м, белый",
       "rating": 7,
-      "price":3490 ,
+      "price": 3490,
       "mainImage": "https://static.re-store.ru/upload/iblock/68e/68ef20efb8bed866cbb6f015afd2c74f.jpg",
       "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/bf1/100500_800_140cd750bba9870f18aada2478b24840a/bf180c08488938ffe0eac1282713fe77.jpg"
     },
@@ -767,63 +767,6 @@
       "price": 2990,
       "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/ede/100500_800_140cd750bba9870f18aada2478b24840a/pl1hg5qcwr885kwg109m2x14bf8lbect.jpg",
       "secondImage": "https://static.re-store.ru/upload/iblock/0d1/25ak29czvpcuilx2y2agd2dtvtw7a1vy.jpg"
-    },
-
-
-
-
-
-
-
-
-
-
-    {
-      "id": 96,
-      "name": "",
-      "rating": 6,
-      "price": ,
-      "mainImage": "",
-      "secondImage": ""
-    },
-    {
-      "id": 97,
-      "name": "",
-      "rating": 6,
-      "price": ,
-      "mainImage": "",
-      "secondImage": ""
-    },
-    {
-      "id": 96,
-      "name": "",
-      "rating": 6,
-      "price": ,
-      "mainImage": "",
-      "secondImage": ""
-    },
-    {
-      "id": 97,
-      "name": "",
-      "rating": 6,
-      "price": ,
-      "mainImage": "",
-      "secondImage": ""
-    },{
-      "id": 96,
-      "name": "",
-      "rating": 6,
-      "price": ,
-      "mainImage": "",
-      "secondImage": ""
-    },
-    {
-      "id": 97,
-      "name": "",
-      "rating": 6,
-      "price": ,
-      "mainImage": "",
-      "secondImage": ""
     }
   ]
 }

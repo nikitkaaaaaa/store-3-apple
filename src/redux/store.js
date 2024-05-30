@@ -8,11 +8,18 @@ import { accessories } from "../api/accessories";
 const store = configureStore({
   reducer: {
     [iphone.reducerPath]: iphone.reducer,
-    [ipad.reducerPath] : ipad.reducer,
-    [mac.reducerPath] : mac.reducer,
-    [watch.reducerPath] : watch.reducer,
-    [accessories.reducerPath] : accessories.reducer
+    [ipad.reducerPath]: ipad.reducer,
+    [mac.reducerPath]: mac.reducer,
+    [watch.reducerPath]: watch.reducer,
+    [accessories.reducerPath]: accessories.reducer,
   },
-  middleware: (getmiddleware) => getmiddleware().concat(iphone.middleware,ipad.middleware,mac.middleware,watch.middleware,accessories.middleware),
+  middleware: (getmiddleware) =>
+    getmiddleware().concat(
+      iphone.middleware,
+      ipad.middleware,
+      mac.middleware,
+      watch.middleware,
+      accessories.middleware
+    ),
 });
 export default store;

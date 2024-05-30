@@ -2,8 +2,7 @@ import "./App.css";
 
 import React from "react";
 import Header from "./componets/header/Header";
-import Navigate from "./componets/Navigate";
-
+import Navigate from "./Navigate";
 const App = () => {
   return (
     <div className="wrapper">
