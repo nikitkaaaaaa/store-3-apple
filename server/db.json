@@ -602,166 +602,184 @@
   "accessories" : [
     {
       "id": 75,
-      "name": "",
+      "name": "Умная колонка Яндекс Станция Дуо Макс с Zigbee, бежевый",
       "rating": 6,
-      "price": ,
-      "mainImage": "",
-      "secondImage": ""
+      "price": 44990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/bab/100500_800_140cd750bba9870f18aada2478b24840a/02w3pib2ljklho31jjueggjs92ut0zb8.jpg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/11b/100500_800_140cd750bba9870f18aada2478b24840a/tg0cxsh6zl26br68xwt4v28m215mm21q.jpg"
     },
     {
       "id": 76,
-      "name": "",
-      "rating": 6,
-      "price": ,
-      "mainImage": "",
-      "secondImage": ""
+      "name": "Умная колонка Яндекс Станция Дуо Макс с Zigbee, зеленый",
+      "rating": 7,
+      "price": 44990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/b0d/100500_800_140cd750bba9870f18aada2478b24840a/fuiw2vq0z0gt9hpfq75xo22bns4402wu.jpg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/3cb/100500_800_140cd750bba9870f18aada2478b24840a/aupdnciksgurbf7bg8y6xbttlalcw19c.jpg"
     },
     {
       "id": 77,
-      "name": "",
+      "name": "Накладка SwitchEasy для MacBook Air 13\", черный мрамор",
       "rating": 6,
-      "price": ,
-      "mainImage": "",
-      "secondImage": ""
+      "price": 5990,
+      "mainImage": "https://static.re-store.ru/upload/iblock/7c0/dx6737cq6n7l9e6930yxfgxl7wexh21j.jpg",
+      "secondImage": "https://static.re-store.ru/upload/iblock/7b7/kdik2zshawjx6oui3wdlwoditt9iewzl.jpg"
     },
     {
       "id": 78,
-      "name": "",
-      "rating": 6,
-      "price": ,
-      "mainImage": "",
-      "secondImage": ""
+      "name": "Кепка с беспроводными наушниками HAKII MIXC, черный",
+      "rating": 8,
+      "price": 13990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/b67/100500_800_140cd750bba9870f18aada2478b24840a/v63y1369wg6nwiv11f0fkwxazwtc01bx.jpg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/d09/100500_800_140cd750bba9870f18aada2478b24840a/o5d56sxtxj7yxqw6pdyazjkhajdqtj1d.jpg"
     },
     {
       "id": 79,
-      "name": "",
+      "name": "Рюкзак Gaston Luga Backpack Heritage 16\", зеленый/желтый",
       "rating": 6,
-      "price": ,
-      "mainImage": "",
-      "secondImage": ""
+      "price": 12990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/6d7/100500_800_140cd750bba9870f18aada2478b24840a/csifnxhl2xtrfx7i97s2zsbtuappa0sr.jpg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/5f5/100500_800_140cd750bba9870f18aada2478b24840a/jahzqnpey8w1bc73pczy2d42l7hluu9w.jpg"
     },
     {
       "id": 80,
-      "name": "",
-      "rating": 6,
-      "price": ,
-      "mainImage": "",
-      "secondImage": ""
+      "name": "Рюкзак Gaston Luga Backpack Heritage 16\", черный",
+      "rating": 9,
+      "price": 12990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/6a2/100500_800_140cd750bba9870f18aada2478b24840a/a1yiuxenp6g5qc7lk8md23g6xoqofool.jpg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/680/100500_800_140cd750bba9870f18aada2478b24840a/uophahic4atg9hkfejiy1hv7nb16xyzd.jpg"
     },
     {
       "id": 81,
-      "name": "",
-      "rating": 6,
-      "price": ,
-      "mainImage": "",
-      "secondImage": ""
+      "name": "Акустика портативная JBL Go Essential, красный",
+      "rating": 7,
+      "price": 3990,
+      "mainImage": "https://static.re-store.ru/upload/iblock/d73/mob0rc45ocysq6aoul2addg8eay44bjk.jpg",
+      "secondImage": "https://static.re-store.ru/upload/iblock/c29/t70s1mtpwmavybi9bnnflvauhtozri1y.jpg"
     },
     {
       "id": 82,
-      "name": "",
-      "rating": 6,
-      "price": ,
-      "mainImage": "",
-      "secondImage": ""
+      "name": "Наушники TWS Bose Ultra Open Earbuds, черный",
+      "rating": 9,
+      "price": 47990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/352/100500_800_140cd750bba9870f18aada2478b24840a/jjge4pfd22dnxythqtwqrjlcdvi3y01x.jpg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/5de/100500_800_140cd750bba9870f18aada2478b24840a/7eojo6eh3z19up7jodrzay20io3o1l7s.jpg"
     },
     {
       "id": 83,
-      "name": "",
-      "rating": 6,
-      "price": ,
-      "mainImage": "",
-      "secondImage": ""
+      "name": "Беспроводные наушники Nothing ear (2024), белый",
+      "rating": 9,
+      "price": 19990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/29d/100500_800_140cd750bba9870f18aada2478b24840a/5vfn5eiwinz9vg2xp93my2782gd9gj2x.jpg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/485/100500_800_140cd750bba9870f18aada2478b24840a/e1mft78f2sre6iins8xnvmrb9jy01qu8.jpg"
     },
     {
       "id": 84,
-      "name": "",
+      "name": "Наушники накладные JBL Tune 520BT, фиолетовый",
       "rating": 6,
-      "price": ,
-      "mainImage": "",
-      "secondImage": ""
+      "price": 5790,
+      "mainImage": "https://static.re-store.ru/upload/iblock/dd3/33a1axi6ouj014rnt2ragrmxpiogs8nu.jpg",
+      "secondImage": "https://static.re-store.ru/upload/iblock/fb8/jwv1j906cjlo8r0n130xzpux58zu5elm.jpg"
     },
     {
       "id": 85,
-      "name": "",
+      "name": "Беспроводные наушники Sony WF-C500, черный",
       "rating": 6,
-      "price": ,
-      "mainImage": "",
-      "secondImage": ""
+      "price": 7990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/9d6/100500_800_140cd750bba9870f18aada2478b24840a/mve5kn7xjswi3hpj8m6k3cyxsubv4kc9.jpg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/9d4/100500_800_140cd750bba9870f18aada2478b24840a/9ud9qakc3lyz2f1odaybic9i9czedd35.jpg"
     },
     {
       "id": 86,
-      "name": "",
-      "rating": 6,
-      "price": ,
-      "mainImage": "",
-      "secondImage": ""
+      "name": "Беспроводные наушники Sony WF-C500, белый",
+      "rating": 7,
+      "price":7990 ,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/ff0/100500_800_140cd750bba9870f18aada2478b24840a/rxguqu47iyqqk3biunr9x579djvltaj0.jpg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/3a1/100500_800_140cd750bba9870f18aada2478b24840a/g8f3mb9i89eq6wm6tplvv2cb3nrvytyn.jpg"
     },
     {
       "id": 87,
-      "name": "",
-      "rating": 6,
-      "price": ,
-      "mainImage": "",
-      "secondImage": ""
+      "name": "Клавиатура Satechi Slim W1, USB-C, серый космос",
+      "rating": 8,
+      "price": 5490,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/f37/100500_800_140cd750bba9870f18aada2478b24840a/20bfuvn7r6c00pc89f1d4suk6332znno.jpg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/e55/100500_800_140cd750bba9870f18aada2478b24840a/yvevvvgyahvvkq7mvkasl00imw1fqpkh.jpg"
     },
     {
       "id": 88,
-      "name": "",
-      "rating": 6,
-      "price": ,
-      "mainImage": "",
-      "secondImage": ""
+      "name": "Наушники накладные Sony WH-CH720N, черный",
+      "rating": 7,
+      "price": 14990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/eac/100500_800_140cd750bba9870f18aada2478b24840a/b5t4ux6hbbgws9l9cqanwu14umupafs6.jpg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/1c0/100500_800_140cd750bba9870f18aada2478b24840a/1g9513vxhbclv8dc2a10ubdxjndklt7y.jpg"
     },
     {
       "id": 89,
-      "name": "",
-      "rating": 6,
-      "price": ,
-      "mainImage": "",
-      "secondImage": ""
+      "name": "Акустика портативная JBL PartyBox Encore Essential, черный",
+      "rating": 8,
+      "price": 34990,
+      "mainImage": "https://static.re-store.ru/upload/iblock/5d2/xmgjs1n9i9tbqsr00kpib45tmdzbvxig.jpg",
+      "secondImage": "https://static.re-store.ru/upload/iblock/167/j84r0uo2czl87kqv80j0r6zh768v4kfl.jpg"
     },
     {
       "id": 90,
-      "name": "",
-      "rating": 6,
-      "price": ,
-      "mainImage": "",
-      "secondImage": ""
+      "name": "Беспроводные наушники Kaibo Audio Verse Plus, синий",
+      "rating": 5,
+      "price": 7990,
+      "mainImage": "https://static.re-store.ru/upload/iblock/885/r03xjo2sjcrjytejl1m6tqr57g9cwchx.jpg",
+      "secondImage": "https://static.re-store.ru/upload/iblock/00c/0l69z7mxzebpuirtu564bophkrufq2t3.jpg"
     },
     {
       "id": 91,
-      "name": "",
+      "name": "Наушники Attitud EarSport Large с костной проводимостью звука, черный",
       "rating": 6,
-      "price": ,
-      "mainImage": "",
-      "secondImage": ""
+      "price": 13990,
+      "mainImage": "https://static.re-store.ru/upload/iblock/c6c/zh6p2k1w7b7r4hiw6soebwtb06do2vk2.jpg",
+      "secondImage": "https://static.re-store.ru/upload/iblock/734/yphmsx6thzfz0mbknycrwh7bhkq80xmi.jpg"
     },
     {
       "id": 92,
-      "name": "",
-      "rating": 6,
-      "price": ,
-      "mainImage": "",
-      "secondImage": ""
+      "name": "Адаптер moonfish Multiport Type-C, серый",
+      "rating": 3,
+      "price": 3590,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/4d7/100500_800_140cd750bba9870f18aada2478b24840a/4d7e08de82708577c26871d42592855e.jpg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/0e2/100500_800_140cd750bba9870f18aada2478b24840a/0e2fb41f296539f24307a727716de26b.jpg"
     },
     {
       "id": 93,
-      "name": "",
-      "rating": 6,
-      "price": ,
-      "mainImage": "",
-      "secondImage": ""
+      "name": "Беспроводные наушники Apple AirPods Pro (2-го поколения, 2023) MagSafe USB-C, белый",
+      "rating": 8,
+      "price": 31990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/28a/100500_800_140cd750bba9870f18aada2478b24840a/2bz5l70t3j2n6j9d1rfqawl33urcyzl7.jpg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/c0b/100500_800_140cd750bba9870f18aada2478b24840a/d33h7mditvcn70df26oq6texbpd8ohu7.jpg"
     },
     {
       "id": 94,
-      "name": "",
-      "rating": 6,
-      "price": ,
-      "mainImage": "",
-      "secondImage": ""
+      "name": "Кабель Apple USB‑C/Lightning, 1м, белый",
+      "rating": 7,
+      "price":3490 ,
+      "mainImage": "https://static.re-store.ru/upload/iblock/68e/68ef20efb8bed866cbb6f015afd2c74f.jpg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/bf1/100500_800_140cd750bba9870f18aada2478b24840a/bf180c08488938ffe0eac1282713fe77.jpg"
     },
     {
       "id": 95,
+      "name": "Салфетка для дисплея Apple Polishing Cloth",
+      "rating": 5,
+      "price": 2990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/ede/100500_800_140cd750bba9870f18aada2478b24840a/pl1hg5qcwr885kwg109m2x14bf8lbect.jpg",
+      "secondImage": "https://static.re-store.ru/upload/iblock/0d1/25ak29czvpcuilx2y2agd2dtvtw7a1vy.jpg"
+    },
+
+
+
+
+
+
+
+
+
+
+    {
+      "id": 96,
       "name": "",
       "rating": 6,
       "price": ,
@@ -769,6 +787,29 @@
       "secondImage": ""
     },
     {
+      "id": 97,
+      "name": "",
+      "rating": 6,
+      "price": ,
+      "mainImage": "",
+      "secondImage": ""
+    },
+    {
+      "id": 96,
+      "name": "",
+      "rating": 6,
+      "price": ,
+      "mainImage": "",
+      "secondImage": ""
+    },
+    {
+      "id": 97,
+      "name": "",
+      "rating": 6,
+      "price": ,
+      "mainImage": "",
+      "secondImage": ""
+    },{
       "id": 96,
       "name": "",
       "rating": 6,
