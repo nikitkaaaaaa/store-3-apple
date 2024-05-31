@@ -9,8 +9,8 @@ const Buttonproducts = () => {
       <button
         onClick={basket}
         style={{
-          background: "rgb(255, 29, 246)",
-          color: "white",
+          background: "white",
+          color: "rgb(0, 158, 185)",
           padding: "10px 25px",
           borderRadius: "5px",
           border: "none",
