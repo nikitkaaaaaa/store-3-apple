@@ -1,23 +1,28 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import { useGetIphoneQuery } from "../api/iphone";
 import CardProduct from "../componets/cardProducts/CardProduct";
-import { useGetAccessoriesQuery } from "../api/accessories";
-import { useGetIpadQuery } from "../api/ipad";
-import { useGetMacQuery } from "../api/mac";
-import { useGetWatchQuery } from "../api/watch";
 import Search from "../componets/search/Search";
 import Choise from "../componets/choise/Choise";
+import { filterproducts } from "../filterproducts/filterproducts";
+
 
 const IphonePage = () => {
   const { data = [] } = useGetIphoneQuery();
+  const [search,setsearch] = useState('');
+  const [choise,setchoise] = useState('rating');
+  const [filterData,setfilterData] = useState([]);
+  useEffect(()=>{
+    let filter = filterproducts(data,search,choise);
+    setfilterData(filter);
+  },[data,search,choise])
   return (
     <div>
       <h1 className="name_product">iPhone</h1>
       <div className="filter_product">
-        <Search />
-        <Choise />
+        <Search onSearch = {setsearch}/>
+        <Choise onChoise = {setchoise}/>
       </div>
-      <CardProduct data={data} />
+      <CardProduct data={filterData} />
     </div>
   );
 };

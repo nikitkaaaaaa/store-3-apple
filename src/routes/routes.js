@@ -3,5 +3,9 @@ export const routes = {
   ipad: "/ipad",
   mac : "/mac",
   watch : "/watch",
-  accessories : "/accessories"
+  accessories : "/accessories",
+  accessoriesmac : "/accessories/mac",
+  accessoriesiphone : "/accessories/iphone",
+  accessoriesipad : "/accessories/ipad",
+  accessorieswatch : "/accessories/watch"
 };

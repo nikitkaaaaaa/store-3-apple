@@ -1,5 +1,6 @@
 import React from "react";
-import { image } from "../../image/image";
+import { image } from "../image/image";
+
 
 const Header = () => {
   return (

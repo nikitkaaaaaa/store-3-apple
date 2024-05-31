@@ -50,12 +50,8 @@
 .products img {
   width: 100%;
   height: 100%;
-  transition: opacity 0.2s ease; /* Добавляем плавный переход */
 }
 
-.products img.secondImage {
-  opacity: 0; /* Скрытие второго изображения по умолчанию */
-}
 .name_product {
   text-align: center;
 }
@@ -64,16 +60,20 @@
   align-items: center;
   justify-content: space-between;
 }
+.contenier_accessories{
+  display: flex;
+  border: 1px solid;
+  justify-content: center;
+}
+.products_accessories{
+  display: flex;
+  flex-direction: column;
+  border: 1px solid;
+}
 .products {
   width: 300px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  position: relative;
-  border: 1px solid;
-  z-index: 1; /* Начальное значение z-index */
-}
-
-.products:hover {
   box-shadow: 0px 5px 10px 2px rgba(0, 0, 0, 0.2);
 }

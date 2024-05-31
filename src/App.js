@@ -1,8 +1,9 @@
 import "./App.css";
 
 import React from "react";
-import Header from "./componets/header/Header";
+
 import Navigate from "./Navigate";
+import Header from "./header/Header";
 const App = () => {
   return (
     <div className="wrapper">

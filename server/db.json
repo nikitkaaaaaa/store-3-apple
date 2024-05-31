@@ -766,7 +766,504 @@
       "rating": 5,
       "price": 2990,
       "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/ede/100500_800_140cd750bba9870f18aada2478b24840a/pl1hg5qcwr885kwg109m2x14bf8lbect.jpg",
-      "secondImage": "https://static.re-store.ru/upload/iblock/0d1/25ak29czvpcuilx2y2agd2dtvtw7a1vy.jpg"
-    }
+      "secondImage": "https://static.re-store.ru/upload/iblock/0d1/25ak29czvpcuilx2y2agd2dtvtw7a1vy.jpg",
+      "sadasdasd" : "----------------------------------------------"
+    },
+
+
+
+
+
+
+
+    {
+      "id": 96,
+      "name": "Автомобильный держатель moonfish HQi-18 с БЗУ, MagSafe, 15 Вт, черный",
+      "rating": 6,
+      "price": 5990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/be0/100500_800_140cd750bba9870f18aada2478b24840a/vaqlkapkimgei17a6di6itg0z8guyyqq.jpg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/3ca/100500_800_140cd750bba9870f18aada2478b24840a/qmh8ycrxvx2089ta92ponx0qbqb5jp7r.jpg"
+      },
+      {
+      "id": 97,
+      "name": "Защита линз SwitchEasy LenzGuard для iPhone 15 Pro/Pro Max, черный",
+      "rating": 6,
+      "price": 2990,
+      "mainImage": "https://static.re-store.ru/upload/iblock/ce1/0at42dfhgir4eu5hapsw11vx004wy8od.jpg",
+      "secondImage": "https://static.re-store.ru/upload/iblock/0fd/bigou72r61p413kztg96rdb977to5rvl.jpg"
+      },
+      {
+      "id": 98,
+      "name": "Умная колонка Яндекс Станция Дуо Макс с Zigbee, черный",
+      "rating": 7,
+      "price": 44990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/749/100500_800_140cd750bba9870f18aada2478b24840a/g7thwr7w1uw6lb6fzkaf3oa6kf57390v.jpg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/ec9/100500_800_140cd750bba9870f18aada2478b24840a/blaygu6f1ofrj5gvc8jqh021a7qv3cdq.jpg"
+      },
+      {
+      "id": 99,
+      "name": "Кепка с беспроводными наушниками HAKII MIXC, черный",
+      "rating": 5,
+      "price": 13990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/b67/100500_800_140cd750bba9870f18aada2478b24840a/v63y1369wg6nwiv11f0fkwxazwtc01bx.jpg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/d09/100500_800_140cd750bba9870f18aada2478b24840a/o5d56sxtxj7yxqw6pdyazjkhajdqtj1d.jpg"
+      },{
+      "id": 100,
+      "name": "Акустика портативная Klipsch Austin, черный",
+      "rating": 8,
+      "price": 18990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/281/100500_800_140cd750bba9870f18aada2478b24840a/vkxq338rduqtbwh1gt8ew0ndlyiqu9uu.jpg",
+      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/542/100500_800_140cd750bba9870f18aada2478b24840a/62zyqlpy9hu1po4ci9ex1enfp4hx65yi.jpg"
+      },
+      {
+      "id": 101,
+      "name": "Магнитный держатель SwitchEasy MagLink MagSafe, черный",
+      "rating": 9,
+      "price": 2990,
+      "mainImage": "https://static.re-store.ru/upload/iblock/865/av2hiutqi19ugkfzgxwb13ytbgeusd2s.jpg",
+      "secondImage": "https://static.re-store.ru/upload/iblock/d06/buhlq5dwbq2xarerfggjk2rvw4uasveu.jpg"
+      },
+      {
+        "id": 102,
+        "name": "Беспроводное зарядное устройство Belkin Boost Charge Pro Convertible MagSafe Qi2, 15 вт, черный",
+        "rating": 8,
+        "price": 14990,
+        "mainImage": "https://static.re-store.ru/upload/iblock/c43/zb9a2f7flb5yatiw43d56pvcbuhlqx9s.jpg",
+        "secondImage": "https://static.re-store.ru/upload/iblock/190/4n9xcz3yby4et5m1i95zae3gdkhaylcu.jpg"
+        },
+        {
+        "id": 103,
+        "name": "Чехол Apple MagSafe для iPhone 15, силикон, «грозовая туча»",
+        "rating": 4,
+        "price": 6990,
+        "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/a06/100500_800_140cd750bba9870f18aada2478b24840a/m5b7xm4nsui63fiiu3l6l4tcotz4hm5o.jpg",
+        "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/14f/100500_800_140cd750bba9870f18aada2478b24840a/botxkjblsr2gd933h7wd8xnm2mulpqzq.jpg"
+        },{
+        "id": 104,
+        "name": "Кепка с беспроводными наушниками HAKII MIXC, черный/зеленый",
+        "rating": 5,
+        "price": 13990,
+        "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/98e/100500_800_140cd750bba9870f18aada2478b24840a/t9ujjyg84hwza4t6vxd172zsiiv3ltwe.jpg",
+        "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/6fa/100500_800_140cd750bba9870f18aada2478b24840a/xo3t1tefausrhm7855a1irh10909bju0.jpg"
+        },
+        {
+        "id": 105,
+        "name": "Беспроводные наушники Nothing ear (2024), черный",
+        "rating": 8,
+        "price": 19990,
+        "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/dde/100500_800_140cd750bba9870f18aada2478b24840a/3qyi9ru9wdb2jyggax0yuhma2esrhak2.jpg",
+        "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/6d6/100500_800_140cd750bba9870f18aada2478b24840a/a8l7hdrsm8dlpbjvx5b986c1f4nnx38g.jpg"
+        },
+        {
+          "id": 106,
+          "name": "Чехол Apple MagSafe для iPhone 15, силикон, «спелый нектарин»",
+          "rating": 10,
+          "price": 6990,
+          "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/402/100500_800_140cd750bba9870f18aada2478b24840a/hr4bzq01skd3fnr1y7cpu4ksm3u1d9bw.jpg",
+          "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/332/100500_800_140cd750bba9870f18aada2478b24840a/g7h7a6doamrfl7sd17e3lswhz52bhsqy.jpg"
+          },
+          {
+          "id": 107,
+          "name": "Акустика портативная JBL Xtreme 3, серый",
+          "rating": 6,
+          "price": 29990,
+          "mainImage": "https://static.re-store.ru/upload/iblock/6e0/dslno1zy4n134o28sxfiwk7t5gxuzvpq.jpg",
+          "secondImage": "https://static.re-store.ru/upload/iblock/193/2vxpjqbzmrf2f94yhgbltegiapava9oc.jpg"
+          },
+          {
+          "id": 108,
+          "name": "Магнитный держатель Pitaka MagEZ Grip 2 с NFC, синий",
+          "rating": 7,
+          "price": 3990,
+          "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/4ca/100500_800_140cd750bba9870f18aada2478b24840a/ejshkd4xp9x6jjlljw14z11cvqvmsqen.jpg",
+          "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/f06/100500_800_140cd750bba9870f18aada2478b24840a/p8gg41rfepa1q150lp8khw459alconl7.jpg"
+          },
+          {
+          "id": 109,
+          "name": "Магнитный держатель Pitaka MagEZ Grip 2 с NFC, рапсодия",
+          "rating": 3,
+          "price": 3990,
+          "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/603/100500_800_140cd750bba9870f18aada2478b24840a/1plpc9q9ow3imbkibc6qu1y1sgyw3n05.jpg",
+          "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/6ed/100500_800_140cd750bba9870f18aada2478b24840a/4k5rf9z60ijxx1vgndm05quxgpr5263f.jpg"
+          },{
+          "id": 110,
+          "name": "Акустика портативная JBL PartyBox On-the-Go Essential, черный",
+          "rating": 6,
+          "price": 43990,
+          "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/658/100500_800_140cd750bba9870f18aada2478b24840a/idtbpnfgm199g1e68rpnozcxt66sjt27.jpg",
+          "secondImage": "https://static.re-store.ru/upload/iblock/441/91f11sh19ir3byzgk5pqlf86guesvq2f.jpg"
+          },
+          {
+          "id": 112,
+          "name": "Наушники TWS Bose Ultra Open Earbuds, белый",
+          "rating": 6,
+          "price": 47990,
+          "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/89c/100500_800_140cd750bba9870f18aada2478b24840a/rcgn4qukwt10q5pywgih8feodaochg3z.jpg",
+          "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/47d/100500_800_140cd750bba9870f18aada2478b24840a/pejy3af6mynnvk2134vb2ovu4x5gm54l.jpg"
+          },
+          {
+            "id": 113,
+            "name": "Чехол Caviar Leather Case для iPhone 15 Pro Мах, кожа, мятный",
+            "rating": 6,
+            "price": 69990,
+            "mainImage": "https://static.re-store.ru/upload/iblock/8c8/zj4kadw5ohngpzsuwr4ooywl6zxzc7wz.jpg",
+            "secondImage": "https://static.re-store.ru/upload/iblock/f5c/l7elfiw14nn61vxjylne60736o4kl7gd.jpg"
+            },
+            {
+            "id": 114,
+            "name": "Чехол Caviar Leather Case для iPhone 15 Pro Мах, кожа, терракотовый",
+            "rating": 4,
+            "price": 69990,
+            "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/a1e/100500_800_140cd750bba9870f18aada2478b24840a/9273ustkm0hgpgmmdhvbh085qztpptae.jpg",
+            "secondImage": "https://static.re-store.ru/upload/iblock/cbe/62vuh9atvnzdivsctuelklv2qapko0zu.jpg"
+            },{
+            "id": 115,
+            "name": "Сетевое зарядное устройство moonfish USB-C, GaN, PD, 30 Вт, черный",
+            "rating": 6,
+            "price": 4590,
+            "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/ca1/100500_800_140cd750bba9870f18aada2478b24840a/11j4fbvaxibn6ik3pr0t8tdzd663ubn9.jpg",
+            "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/eb4/100500_800_140cd750bba9870f18aada2478b24840a/pov7cr3wmpuxa7w6bcewq9fkybu7hly5.jpg"
+            },
+            {
+            "id": 116,
+            "name": "Стекло защитное алюмосиликатное uBear для iPhone 15, Extreme Nano, черный",
+            "rating": 8,
+            "price": 3490,
+            "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/71d/100500_800_140cd750bba9870f18aada2478b24840a/ig1abb2k10ftdt8ahi1u0cki3jpk1s18.jpg",
+            "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/996/100500_800_140cd750bba9870f18aada2478b24840a/zsqu1amg4c7kuecex8x0hzd4qod3dspd.jpg",
+            "sadasd": " |------------------------------------------------------"
+            },
+
+
+
+
+
+            {
+              "id": 117,
+              "name": "Акустика портативная Klipsch Austin, черный",
+              "rating": 6,
+              "price": 18990,
+              "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/281/100500_800_140cd750bba9870f18aada2478b24840a/vkxq338rduqtbwh1gt8ew0ndlyiqu9uu.jpg",
+              "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/542/100500_800_140cd750bba9870f18aada2478b24840a/62zyqlpy9hu1po4ci9ex1enfp4hx65yi.jpg"
+              },
+              {
+              "id": 118,
+              "name": "Стилус SwitchEasy Maestro Magnetic, белый",
+              "rating": 5,
+              "price": 7990,
+              "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/925/100500_800_140cd750bba9870f18aada2478b24840a/d3qg0aaxm2c3gty8ps0oz4ng53wzpbgm.jpg",
+              "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/361/100500_800_140cd750bba9870f18aada2478b24840a/m67oyq70cv9bvjo43v7io6y0wqrx1b4j.jpg"
+              },
+              {
+              "id": 119,
+              "name": "Рюкзак Gaston Luga Backpack Heritage 16\", зеленый/желтый",
+              "rating": 7,
+              "price": 12990,
+              "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/6d7/100500_800_140cd750bba9870f18aada2478b24840a/csifnxhl2xtrfx7i97s2zsbtuappa0sr.jpg",
+              "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/5f5/100500_800_140cd750bba9870f18aada2478b24840a/jahzqnpey8w1bc73pczy2d42l7hluu9w.jpg"
+              },
+              {
+              "id": 120,
+              "name": "Рюкзак Gaston Luga Backpack Heritage 16\", черный",
+              "rating": 8,
+              "price": 12990,
+              "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/6a2/100500_800_140cd750bba9870f18aada2478b24840a/a1yiuxenp6g5qc7lk8md23g6xoqofool.jpg",
+              "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/680/100500_800_140cd750bba9870f18aada2478b24840a/uophahic4atg9hkfejiy1hv7nb16xyzd.jpg"
+              },{
+              "id": 121,
+              "name": "Кабель Belkin Boost Charge Braided USB-C - USB-C, 2 м, 100 Вт, нейлон, белый",
+              "rating": 4,
+              "price": 4990,
+              "mainImage": "https://static.re-store.ru/upload/iblock/5f0/t3iovhhph4oifdjmdb4mnz7poz5hqyyp.jpg",
+              "secondImage": "https://static.re-store.ru/upload/iblock/ce3/dbtgpuvadmo1cygu2fln30i2rr4hcrrg.jpg"
+              },
+              {
+              "id": 123,
+              "name": "Стилус SwitchEasy Maestro Magnetic, черный",
+              "rating": 8,
+              "price": 7990,
+              "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/74b/100500_800_140cd750bba9870f18aada2478b24840a/jvlghqabz47tzn15xftzdctb92h5gewi.jpg",
+              "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/740/100500_800_140cd750bba9870f18aada2478b24840a/sezbtxmupgm1170ez3j4p83u2x7q7vjf.jpg"
+              },
+              {
+                "id": 124,
+                "name": "Чехол Apple Smart Folio iPad Air 13\" (M2) светло-зеленый",
+                "rating": 9,
+                "price": 14990,
+                "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/eb0/100500_800_140cd750bba9870f18aada2478b24840a/kajba6qqqpluffx62f1xkcjmpolj7fbb.jpg",
+                "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/0fd/100500_800_140cd750bba9870f18aada2478b24840a/20vp91cx2twlg98qnky0my9td911rg8b.jpg"
+                },
+                {
+                "id": 125,
+                "name": "Чехол Apple Smart Folio iPad Air 13\" (M2) угольно-серый",
+                "rating": 5,
+                "price": 14990,
+                "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/3ce/100500_800_140cd750bba9870f18aada2478b24840a/4zfjd5tdptd58g7fvjhz2qu9x0wydhq9.jpg",
+                "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/2f3/100500_800_140cd750bba9870f18aada2478b24840a/6d6npfu9l1o367w4hecguy9aavn4eu35.jpg"
+                },{
+                "id": 126,
+                "name": "Чехол Apple Smart Folio iPad Air 11\" (M2) сиреневый",
+                "rating": 6,
+                "price": 11990,
+                "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/ca5/100500_800_140cd750bba9870f18aada2478b24840a/84h1u01n3mplfjxsne9b6rymzscfd828.jpg",
+                "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/2b1/100500_800_140cd750bba9870f18aada2478b24840a/cq368ad7p9w3a5lzga6uqotn1jlwrudk.jpg"
+                },
+                {
+                "id": 127,
+                "name": "Чехол Apple Smart Folio iPad Air 11\" (M2) светло-зеленый",
+                "rating": 9,
+                "price": 11990,
+                "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/a60/100500_800_140cd750bba9870f18aada2478b24840a/hdaq3hiah17f61j9n4ud4leio4m4v9x7.jpg",
+                "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/766/100500_800_140cd750bba9870f18aada2478b24840a/ed5hlw2y7zsafzu3rf84tvli5g7fjdd2.jpg"
+                },
+                {
+                  "id": 128,
+                  "name": "Чехол-клавиатура Apple Magic Keyboard для iPad Pro 11\" (M4), белый",
+                  "rating": 10,
+                  "price": 44990 ,
+                  "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/531/100500_800_140cd750bba9870f18aada2478b24840a/hi4ezhpirh8p10nojb1da5hnqe74s4g6.jpg",
+                  "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/404/100500_800_140cd750bba9870f18aada2478b24840a/ss9e15kvvlqr86uxr7huvmhvg23s22x6.jpg"
+                  },
+                  {
+                  "id": 129,
+                  "name": "Чехол-клавиатура Apple Magic Keyboard для iPad Pro 11\" (M4), черный",
+                  "rating": 5,
+                  "price": 44990,
+                  "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/33f/100500_800_140cd750bba9870f18aada2478b24840a/vr3nozov37zzo55l8su0in3nt10j99cl.jpg",
+                  "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/51a/100500_800_140cd750bba9870f18aada2478b24840a/7720rcch56pywg8bin3pw5ivuw8n6yox.jpg"
+                  },
+                  {
+                  "id": 130,
+                  "name": "Чехол-книжка moonfish для iPad Air 10.9 (2022), черный",
+                  "rating": 6,
+                  "price": 2390 ,
+                  "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/f48/100500_800_140cd750bba9870f18aada2478b24840a/q3rbpbqq2i6kplwbdwwt02rflyovm8pd.jpg",
+                  "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/fac/100500_800_140cd750bba9870f18aada2478b24840a/zo510k8r1q6s458rhfv3drp6txzl2svx.jpg"
+                  },
+                  {
+                  "id": 131,
+                  "name": "Чехол-книжка moonfish для iPad Air 10.9 (2022), синий",
+                  "rating": 7,
+                  "price": 2390,
+                  "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/00a/100500_800_140cd750bba9870f18aada2478b24840a/tm4zt88baw5ocl2h77jycnfn2mrppnw7.jpg",
+                  "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/e67/100500_800_140cd750bba9870f18aada2478b24840a/fdo4abmkk6x41u2ghqvazwvd0rn3ef5x.jpg"
+                  },{
+                  "id": 132,
+                  "name": "Чехол-книжка moonfish для iPad Air 10.9 (2022), розовый",
+                  "rating": 9,
+                  "price":2390 ,
+                  "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/084/100500_800_140cd750bba9870f18aada2478b24840a/bvl4hubwji709rmx8pll42vrn0b7cybz.jpg",
+                  "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/e5d/100500_800_140cd750bba9870f18aada2478b24840a/dvxi6d6cuimjo1nmak9pumc09p9se189.jpg"
+                  },
+                  {
+                  "id": 133,
+                  "name": "Беспроводные наушники Apple AirPods Pro (2-го поколения, 2023) MagSafe USB-C, белый",
+                  "rating": 5,
+                  "price": 31990,
+                  "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/28a/100500_800_140cd750bba9870f18aada2478b24840a/2bz5l70t3j2n6j9d1rfqawl33urcyzl7.jpg",
+                  "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/c0b/100500_800_140cd750bba9870f18aada2478b24840a/d33h7mditvcn70df26oq6texbpd8ohu7.jpg"
+                  },
+                  {
+                    "id": 134,
+                    "name": "Беспроводные наушники Beats Fit Pro, «лиловый камень»",
+                    "rating": 10,
+                    "price": 18990,
+                    "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/7ab/100500_800_140cd750bba9870f18aada2478b24840a/7abf707858e89b43c9f206ccdf02576c.jpeg",
+                    "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/3ea/100500_800_140cd750bba9870f18aada2478b24840a/3ea48817370fe5eb322aba392d841731.jpeg"
+                    },
+                    {
+                    "id": 135,
+                    "name": "Сетевое зарядное устройство Satechi Type-C, PD, 108 Вт, «серый космос»",
+                    "rating": 10,
+                    "price": 8590,
+                    "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/51b/100500_800_140cd750bba9870f18aada2478b24840a/51bf42eb335815ee9fe9fb14691b2d70.jpg",
+                    "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/a5f/100500_800_140cd750bba9870f18aada2478b24840a/a5fae1ea85bf475bb9bd7e243aba7f17.jpg"
+                    },{
+                    "id": 136,
+                    "name": "Сетевое зарядное устройство moonfish USB-C + 3хUSB-A, PD, 75Вт, белый",
+                    "rating": 6,
+                    "price": 1590,
+                    "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/999/100500_800_140cd750bba9870f18aada2478b24840a/kqt3284z61l7212c4u92m7haztldfhj8.jpg",
+                    "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/705/100500_800_140cd750bba9870f18aada2478b24840a/dmqtniar1uahicz97aqqa7zop04acuym.jpg"
+                    },
+                    {
+                    "id": 137,
+                    "name": "Кабель moonfish USB-А - Lightning 1 м, силикон, белый",
+                    "rating": 8,
+                    "price": 2790,
+                    "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/3d5/100500_800_140cd750bba9870f18aada2478b24840a/m8p8ny3cri27f4i9a5fyuba6txwtkjqf.jpg",
+                    "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/117/100500_800_140cd750bba9870f18aada2478b24840a/gcewmqqbohp22hhlec8zwsmgd1cmoorn.jpg",
+                    "sa" : "--------------------------------------------------"
+                    },
+
+
+
+
+
+
+                    {
+                      "id": 138,
+                      "name": "Ремешок Uniq Strova Steel для Apple Watch 42/44/45/49 мм, сталь, серебристый",
+                      "rating": 5,
+                      "price": 7990,
+                      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/525/100500_800_140cd750bba9870f18aada2478b24840a/aslzsm6b0nub2vxd7aucje01tgfof06n.jpg",
+                      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/270/100500_800_140cd750bba9870f18aada2478b24840a/dxxaal1k0nk0o6axl8mh2ujpor0k4fme.jpg"
+                      },
+                      {
+                      "id": 139,
+                      "name": "Беспроводные наушники Nothing ear (a), белый",
+                      "rating": 7,
+                      "price": 13990,
+                      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/9fe/100500_800_140cd750bba9870f18aada2478b24840a/lzk0fv5daelneuy80pe8mv3cdh4ggh7u.jpg",
+                      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/73e/100500_800_140cd750bba9870f18aada2478b24840a/rpehlfvss7q66949xy1upqu7q2lfhgpb.jpg"
+                      },
+                      {
+                      "id": 140,
+                      "name": "Беспроводные наушники Nothing ear (a), черный",
+                      "rating": 8,
+                      "price": 13990,
+                      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/a05/100500_800_140cd750bba9870f18aada2478b24840a/x03dbqocq9491kvjpfbpohw72xmzwjl2.jpg",
+                      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/767/100500_800_140cd750bba9870f18aada2478b24840a/5l02o3tcjxqle0kdxinx9nz9ee17ixie.jpg"
+                      },
+                      {
+                      "id": 141,
+                      "name": "Ремешок moonfish для Apple Watch 42/44 мм, нейлон, индиго",
+                      "rating": 9,
+                      "price": 2990,
+                      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/656/100500_800_140cd750bba9870f18aada2478b24840a/8iw8ikj0mn20woeqyuxky2wztsqto1d3.jpg",
+                      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/a76/100500_800_140cd750bba9870f18aada2478b24840a/hxawhqmt3vne492dz25h2gr4zfe2dxg5.jpg"
+                      },{
+                      "id": 142,
+                      "name": "Беспроводное зарядное устройство uBear Balance 3в1, 30 Вт, серебристый",
+                      "rating": 8,
+                      "price": 15490,
+                      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/8b7/100500_800_140cd750bba9870f18aada2478b24840a/tk407qy6w07quwo1yjhov0x47u21xdzi.jpg",
+                      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/941/100500_800_140cd750bba9870f18aada2478b24840a/3o3gr8kou4gdveyejjg3yji1onpzec46.jpg"
+                      },
+                      {
+                      "id": 143,
+                      "name": "Беспроводное зарядное устройство EnergEA Bazic GoMag Trio USB-C, 15 Вт, серый",
+                      "rating": 6,
+                      "price": 7390,
+                      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/6be/100500_800_140cd750bba9870f18aada2478b24840a/ddc3e5fis6y24lmgapmdx0elkkwrw1op.jpg",
+                      "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/e3e/100500_800_140cd750bba9870f18aada2478b24840a/ttqy2c2h814k4keyawmw4eaibp24dmc2.jpg"
+                      },
+                      {
+                        "id": 144,
+                        "name": "Беспроводное зарядное устройство moonfish 2в1, 15 Вт, белый",
+                        "rating": 7,
+                        "price":5590 ,
+                        "mainImage": "https://static.re-store.ru/upload/iblock/76e/44l8twh8vg9csw75m683tuu7abkt1hrc.jpg",
+                        "secondImage": "https://static.re-store.ru/upload/iblock/0e4/rhs01tg77ap51im099fs4ehmadgopv6i.jpg"
+                        },
+                        {
+                        "id": 145,
+                        "name": "Беспроводное зарядное устройство uBear Stage Pro 3в1, 30 Вт, серебристый",
+                        "rating": 4,
+                        "price":11990 ,
+                        "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/fde/100500_800_140cd750bba9870f18aada2478b24840a/kwd02u6snnv4ek3qlpe0v2d1lpqt71ri.jpg",
+                        "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/c6a/100500_800_140cd750bba9870f18aada2478b24840a/7ozde3sfqvcdspme7cw2ih7kfh7qyk81.jpg"
+                        },{
+                        "id": 146,
+                        "name": "Ремешок moonfish для Apple Watch 42/44 мм, нейлон, бежевый",
+                        "rating": 8,
+                        "price": 2990,
+                        "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/852/100500_800_140cd750bba9870f18aada2478b24840a/x0by7r6kkexi7qve8n2k1neu3vzs21bn.jpg",
+                        "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/84e/100500_800_140cd750bba9870f18aada2478b24840a/j0liixzt74w6lmd34zj9orqhh86ytwy3.jpg"
+                        },
+                        {
+                        "id": 147,
+                        "name": "Беспроводное зарядное устройство moonfish для Apple Watch, белый",
+                        "rating": 6,
+                        "price": 2390,
+                        "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/1e2/100500_800_140cd750bba9870f18aada2478b24840a/nbxli5c34oe2l5jipmpvye58pi8hc4k2.jpg",
+                        "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/cb4/100500_800_140cd750bba9870f18aada2478b24840a/0pyatuxj5mg71b9x8p484dru6qxj6u7f.jpg"
+                        },
+                        {
+                          "id": 148,
+                          "name": "Сетевое зарядное устройство Satechi USB-C, 30 Вт, «серый космос»",
+                          "rating": 10,
+                          "price": 4790,
+                          "mainImage": "https://static.re-store.ru/upload/iblock/7bf/fs0np0vl0i3wlxk5ued37o0s8feyzmm5.jpg",
+                          "secondImage": "https://static.re-store.ru/upload/iblock/9df/9ri2h9o3b2ervb38mjx2wmtnvzcva6mr.jpg"
+                          },
+                          {
+                          "id": 149,
+                          "name": "Сетевое зарядное устройство Satechi 4хUSB-C, PD, GaN, 145 Вт, серый космос",
+                          "rating": 4,
+                          "price": 15990,
+                          "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/940/100500_800_140cd750bba9870f18aada2478b24840a/tadcw92vd1iipdr7kqbr4e7lujugz2l1.jpg",
+                          "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/365/100500_800_140cd750bba9870f18aada2478b24840a/zmxh8ga8oaq85dqv26t0umvhou1z5ej3.jpg"
+                          },
+                          {
+                          "id": 150,
+                          "name": "Ремешок Spigen DuraPro Flex Band для Apple Watch 42/44/45/49 mm, черный",
+                          "rating": 6,
+                          "price": 6390,
+                          "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/778/100500_800_140cd750bba9870f18aada2478b24840a/778f5125478bf82838dbb5793367b4f4.jpg",
+                          "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/fee/100500_800_140cd750bba9870f18aada2478b24840a/fee786378d97589fb0c4834003ecd73b.jpg"
+                          },
+                          {
+                          "id": 151,
+                          "name": "Ремешок moonfish для Apple Watch 42/44/45/49mm, нейлон, черный",
+                          "rating": 8,
+                          "price": 2990,
+                          "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/278/100500_800_140cd750bba9870f18aada2478b24840a/yce1t59r5aehohm3c7o08zucdpiifzki.jpg",
+                          "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/4ef/100500_800_140cd750bba9870f18aada2478b24840a/1wcot037vvv01dbnoy4x8vutr9792vqy.jpg"
+                          },{
+                          "id": 152,
+                          "name": "Сетевое зарядное устройство moonfish USB-A + USB-C, PD, 30 Вт, белый",
+                          "rating": 6,
+                          "price": 4590,
+                          "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/8a8/100500_800_140cd750bba9870f18aada2478b24840a/14mcbcm3u2lyh2ajsd79oh3414wgp62g.jpg",
+                          "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/c3d/100500_800_140cd750bba9870f18aada2478b24840a/bxt1ckvk86r5nmmy7hvi5y9m5tk0sil7.jpg"
+                          },
+                          {
+                          "id": 153,
+                          "name": "Беспроводное зарядное устройство Belkin Boost 3в1 MagSafe, 15 Вт, черный",
+                          "rating": 4,
+                          "price": 27990,
+                          "mainImage": "https://static.re-store.ru/upload/iblock/453/xhkber2wu0rbglacav1n1rm69qch9ola.png",
+                          "secondImage": "https://static.re-store.ru/upload/iblock/f63/ib6po196scnivrq8s6xfaayakdviev8p.png"
+                          },
+                          {
+                            "id": 154,
+                            "name": "Ремешок Nomad Rugged Band для Apple 42/44/45/49 мм, каучук, cеребристый+оранжевый",
+                            "rating": 10,
+                            "price": 14400,
+                            "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/aae/100500_800_140cd750bba9870f18aada2478b24840a/2bnntb54qsomktepcq3n07ngxob497i2.jpg",
+                            "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/5b2/100500_800_140cd750bba9870f18aada2478b24840a/ivdo3jwamxe82bd5f85ojhyr7q8sjl8w.jpg"
+                            },
+                            {
+                            "id": 155,
+                            "name": "Стекло защитное алюмосиликатное moonfish для Apple Watch Ultra 49 мм с аппликатором",
+                            "rating": 8,
+                            "price": 1890,
+                            "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/c91/100500_800_140cd750bba9870f18aada2478b24840a/y5ixkdopck9k2ot64m9zchijc49m6aez.jpg",
+                            "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/6e9/100500_800_140cd750bba9870f18aada2478b24840a/1c032dbfj1z3cssj1p8nmd8fgiu5ji50.jpg"
+                            },{
+                            "id": 156,
+                            "name": "Сетевое зарядное устройство Satechi Compact Charger 2хUSB-C 100Вт + USB-A 12 Вт, GaN Power, серый",
+                            "rating": 6,
+                            "price":8990 ,
+                            "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/b11/100500_800_140cd750bba9870f18aada2478b24840a/s8fl9q3mggz5djnvwvvoxro694ff0x04.jpg",
+                            "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/9e1/100500_800_140cd750bba9870f18aada2478b24840a/waqma2cgun1hgy11oi2aolr7cr8qutyv.jpg"
+                            },
+                            {
+                            "id": 157,
+                            "name": "Ремешок Pitaka Modern Rhapsody для Apple Watch, 41/49 мм, карбон",
+                            "rating": 7,
+                            "price": 15490,
+                            "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/07e/100500_800_140cd750bba9870f18aada2478b24840a/mxq61s2j24koqcpwnen6h59z3cbluyp8.jpg",
+                            "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/a5d/100500_800_140cd750bba9870f18aada2478b24840a/puiirw2f47i8dwoe2mpkfiozl1ii1ixb.jpg"
+                            },
+                            {
+                              "id": 158,
+                              "name": "Беспроводное зарядной устройство Native Union Snap Magnetic 3-в-1, 15 Вт, черный",
+                              "rating": 8,
+                              "price": 29990,
+                              "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/822/100500_800_140cd750bba9870f18aada2478b24840a/7pa2vjkk9pgi4s1k1jhtut5uk3rdpo6b.jpg",
+                              "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/bb6/100500_800_140cd750bba9870f18aada2478b24840a/42keq792hkg1yvek2hhrd1uc898ior05.jpg"
+                              }
   ]
 }

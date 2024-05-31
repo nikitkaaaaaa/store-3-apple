@@ -2,6 +2,10 @@ import React from "react";
 import { Link, Route, Routes } from "react-router-dom";
 import { routes } from "./routes/routes";
 import IphonePage from "./pages/IphonePage";
+import MacPage from "./pages/MacPage";
+import WatchPage from "./pages/WatchPage";
+import IpadPage from "./pages/IpadPage";
+import AccessoriesPage from "./pages/AccessoriesPage";
 const Navigate = () => {
   return (
     <div>
@@ -23,7 +27,11 @@ const Navigate = () => {
         </Link>
       </div>
       <Routes>
+        <Route path={routes.mac} element={<MacPage />}></Route>
         <Route path={routes.iphone} element={<IphonePage />}></Route>
+        <Route path={routes.watch} element={<WatchPage />}></Route>
+        <Route path={routes.ipad} element={<IpadPage />}></Route>
+        <Route path={routes.accessories} element={<AccessoriesPage />}></Route>
       </Routes>
     </div>
   );

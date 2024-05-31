@@ -1,9 +1,13 @@
 import React from "react";
 
-const Choise = () => {
+const Choise = ({ onChoise }) => {
+  const choiseProduct = (event) => {
+    onChoise(event.target.value);
+  }
   return (
     <div>
       <select
+      onClick={choiseProduct}
         style={{
           border: "1px solid gray",
           padding: "5px 10px",

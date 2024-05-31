@@ -3,10 +3,11 @@ import Nameproduct from "./Nameproduct";
 import Imageproduct from "./Imageproduct";
 import Priceproduct from "./Priceproduct";
 import Buttonproducts from "./Buttonproducts";
+import { useAutoAnimate } from '@formkit/auto-animate/react'
 
 const CardProduct = ({ data }) => {
   const [hoveredCard, setHoveredCard] = useState(null);
-
+  const [parent, enableAnimations] = useAutoAnimate()
   const handleMouseEnter = (id) => {
     setHoveredCard(id);
   };
@@ -14,9 +15,8 @@ const CardProduct = ({ data }) => {
   const handleMouseLeave = () => {
     setHoveredCard(null);
   };
-
   return (
-    <div className="coantenier_products">
+    <div className="coantenier_products" ref={parent}>
       {data.map((item) => (
         <div
           className={`products ${hoveredCard === item.id ? "hovered" : ""}`}
@@ -31,7 +31,7 @@ const CardProduct = ({ data }) => {
           />
           <Nameproduct name={item.name} />
           <Priceproduct price={item.price} />
-          {hoveredCard === item.id && <Buttonproducts />}
+         <Buttonproducts />
         </div>
       ))}
     </div>
