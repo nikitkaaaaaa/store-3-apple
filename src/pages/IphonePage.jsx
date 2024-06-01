@@ -22,7 +22,7 @@ const IphonePage = () => {
   }, [data, search, choise]);
   return (
     <div>
-      <h1 className="name_product">iPhone</h1>
+      <h1 className="name_category">iPhone</h1>
       <div className="filter_product">
         <Search onSearch={setsearch} />
         <Choise onChoise={setchoise} />

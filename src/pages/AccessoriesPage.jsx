@@ -5,7 +5,7 @@ import { image } from "../image/image";
 const AccessoriesPage = () => {
   return (
     <div>
-      <h1 className="name_product">Аксессуары</h1>
+      <h1 className="name_category">Аксессуары</h1>
       <div className="contenier_accessories">
         <div className="products_accessories">
           <img

@@ -23,7 +23,7 @@ const WatchPage = () => {
   }, [data, search, choise]);
   return (
     <div>
-      <h1 className="name_product">Watch</h1>
+      <h1 className="name_category">Watch</h1>
       <div className="filter_product">
         <Search onSearch={setsearch} />
         <Choise onChoise={setchoise} />

@@ -10,10 +10,11 @@ const Buttonproducts = () => {
         onClick={basket}
         style={{
           background: "white",
-          color: "rgb(0, 158, 185)",
+          color: "rgb(0, 88, 160)",
           padding: "10px 25px",
           borderRadius: "5px",
           border: "none",
+          fontSize : '14px'
         }}
       >
         В корзину

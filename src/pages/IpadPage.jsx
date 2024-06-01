@@ -23,7 +23,7 @@ const IpadPage = () => {
   }, [data, search, choise]);
   return (
     <div>
-      <h1 className="name_product">iPad</h1>
+      <h1 className="name_category">iPad</h1>
       <div className="filter_product">
         <Search onSearch={setsearch} />
         <Choise onChoise={setchoise} />

@@ -24,7 +24,7 @@ const MacPage = () => {
 
   return (
     <div>
-      <h1 className="name_product">Mac</h1>
+      <h1 className="name_category">Mac</h1>
       <div className="filter_product">
         <Search onSearch={setsearch} />
         <Choise onChoise={setchoise} />

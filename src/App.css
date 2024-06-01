@@ -9,7 +9,6 @@
 .contenier {
   width: 75%;
   margin: auto;
-
   border: 1px solid;
 }
 .header {
@@ -29,11 +28,14 @@
   width: 30px;
   height: 30px;
 }
+.favorites_product{
+  width: 15px;
+  height: 15px;
+}
 .nav {
   border: 1px solid orange;
   display: flex;
   width: 350px;
-  padding: 70px 0px;
   justify-content: space-between;
   align-items: center;
 }
@@ -43,18 +45,13 @@
 }
 .coantenier_products {
   border-top: 1px solid gray;
+  padding-top: 25px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 55px 25px;
+  gap: 55px 55px;
 }
-.products img {
-  width: 100%;
-  transition: 0.5s ease;
-  height: 100%;
-}
-
-.name_product {
+.name_category {
   text-align: center;
 }
 .filter_product {
@@ -76,20 +73,31 @@
 }
 .products {
   display: flex;
-  width: 290px;
+  width: 250px;
   flex-direction: column;
   align-items: center;
   position: relative;
-  transition: 0.3s ease; /* Добавляем плавность для всего блока .products */
   z-index: 1;
+  transition: 0.3s ease; /* Добавляем плавный переход */
 }
-
-.products:hover img {
-  transform: scale(1.1); /* Применяем масштабирование при наведении */
-}
-
 .products img {
   width: 100%;
   height: 100%;
-  transition: transform 0.3s ease; /* Добавляем плавность только для transform */
+  transition: 0.3s ease; /* Добавляем плавный переход */
+}
+.products:hover {
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); 
+  transition: 0.3s ease; /* Добавляем плавный переход */
+}
+.products:hover .image_product {
+  transform: scale(1.1); 
+  transition: 0.3s ease; /* Добавляем плавный переход */
+  cursor: pointer;
+}
+.image_product{
+  border: 1px solid purple;
+}
+.name_product:hover {
+  color: rgb(0, 88, 160);
+  cursor: pointer;
 }
