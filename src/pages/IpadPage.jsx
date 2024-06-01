@@ -11,8 +11,8 @@ const IpadPage = () => {
   const [choise, setchoise] = useState("rating");
   const [filterData, setfilterData] = useState([]);
   const style = {
-    width: "200px",
-    height: "200px",
+    width: "110px",
+    height: "130px",
     display: "flex",
     color: "red",
     position: "relative",

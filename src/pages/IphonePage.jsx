@@ -10,8 +10,8 @@ const IphonePage = () => {
   const [choise, setchoise] = useState("rating");
   const [filterData, setfilterData] = useState([]);
   const style = {
-    width: "150px",
-    height: "170px",
+    width: "110px",
+    height: "130px",
     display: "flex",
     color: "red",
     position: "relative",
