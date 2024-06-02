@@ -10,6 +10,7 @@ const Buttonproducts = () => {
       style={{
         padding: "25px 0px",
         display: "flex",
+        margin: "0 auto",
         alignItems: "center",
       }}
     >
@@ -20,7 +21,7 @@ const Buttonproducts = () => {
           color: "rgb(0, 88, 160)",
           padding: "10px 25px",
           borderRadius: "5px",
-          border: "none",
+          border: "1px solid",
           fontSize: "14px",
         }}
       >

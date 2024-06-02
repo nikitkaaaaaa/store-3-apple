@@ -14,7 +14,7 @@ const FavoritesProduct = () => {
       <img
         src={image.favorites}
         alt=""
-        style={{ width: "20px", height: "20px" }}
+        style={{ width: "25px", height: "25px" }}
       />
     </div>
   );

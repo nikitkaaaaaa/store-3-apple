@@ -6,6 +6,9 @@ import MacPage from "./pages/MacPage";
 import WatchPage from "./pages/WatchPage";
 import IpadPage from "./pages/IpadPage";
 import AccessoriesPage from "./pages/AccessoriesPage";
+import Favorites from "./pages/Favorites";
+import Main from "./pages/Main";
+import Basket from "./pages/Basket";
 const Navigate = () => {
   return (
     <div>
@@ -32,6 +35,9 @@ const Navigate = () => {
         <Route path={routes.watch} element={<WatchPage />}></Route>
         <Route path={routes.ipad} element={<IpadPage />}></Route>
         <Route path={routes.accessories} element={<AccessoriesPage />}></Route>
+        <Route path={routes.favorites} element={<Favorites />}></Route>
+        <Route path={routes.main} element={<Main />}></Route>
+        <Route path={routes.basket} element={<Basket />}></Route>
       </Routes>
     </div>
   );

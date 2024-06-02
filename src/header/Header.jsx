@@ -1,7 +1,11 @@
 import React from "react";
 import { image } from "../image/image";
-
+import { Navigatepage } from "../functtion/Navigatepage";
+import { routes } from "../routes/routes";
 const Header = () => {
+  const navigateToAccessories = Navigatepage(routes.favorites);
+  const navigateToMain = Navigatepage(routes.main);
+  const navigateToBasket = Navigatepage(routes.basket);
   return (
     <div className="header">
       <div
@@ -12,7 +16,12 @@ const Header = () => {
           width: "200px",
         }}
       >
-        <img src={image.avatar} alt="" className="avatar" />
+        <img
+          src={image.avatar}
+          alt=""
+          className="avatar"
+          onClick={navigateToMain}
+        />
         <div>REACT APPLE</div>
       </div>
       <div
@@ -24,7 +33,12 @@ const Header = () => {
         }}
       >
         <div>Закладки</div>
-        <img src={image.favorites} alt="" className="favorites" />
+        <img
+          src={image.favorites}
+          alt=""
+          className="favorites"
+          onClick={navigateToAccessories}
+        />
       </div>
       <div
         style={{
@@ -34,7 +48,12 @@ const Header = () => {
           width: "200px",
         }}
       >
-        <img src={image.basket} alt="" className="basket" />
+        <img
+          src={image.basket}
+          alt=""
+          className="basket"
+          onClick={navigateToBasket}
+        />
       </div>
     </div>
   );

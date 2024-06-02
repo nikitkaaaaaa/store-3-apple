@@ -87,7 +87,7 @@
   transition: 0.2s ease; /* Добавляем плавный переход */
 }
 .products:hover {
-  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
   transition: 0.2s ease; /* Добавляем плавный переход */
 }
 .products:hover .image_product {
