@@ -15,7 +15,7 @@ const CardProduct = ({ data, style }) => {
           <Imageproduct style={style} mainImage={item.mainImage} />
           <Nameproduct name={item.name} />
           <Priceproduct price={item.price} />
-          <Buttonproducts />
+          <Buttonproducts item={item} />
         </div>
       ))}
     </div>

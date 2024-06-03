@@ -1,4 +1,237 @@
 {
+  "basket": [
+    {
+      "id": "c0fb",
+      "name": "Apple iPhone 13, 128 ГБ, розовый",
+      "price": 67990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/2e6/100500_800_140cd750bba9870f18aada2478b24840a/2e6d51a3c3b9f9202b1a376d6398fe05.jpg",
+      "rating": 10
+    },
+    {
+      "id": "730e",
+      "name": "Apple iPhone 15 Pro dual-SIM 256 ГБ, «титановый бежевый»",
+      "price": 135990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/e9d/100500_800_140cd750bba9870f18aada2478b24840a/roz3q9ha09ioo79s9ivcqorz8nlgsjyz.jpg",
+      "rating": 9
+    },
+    {
+      "id": "608d",
+      "name": "Apple iPhone 15 dual-SIM 256 ГБ, розовый",
+      "price": 105990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/b74/100500_800_140cd750bba9870f18aada2478b24840a/jnl9tres1gjuykvns7yw4571mdltq7zg.jpg",
+      "rating": 10
+    },
+    {
+      "id": "44aa",
+      "name": "Apple iPhone 15 Pro Max dual-SIM 1 ТБ, «титановый синий»",
+      "price": 199990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/1d8/100500_800_140cd750bba9870f18aada2478b24840a/go5fuh8xzfdb0arnx4vk111n4upsem0b.jpg",
+      "rating": 10
+    },
+    {
+      "id": "029e",
+      "name": "Apple iPhone 13, 128 ГБ, розовый",
+      "price": 67990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/2e6/100500_800_140cd750bba9870f18aada2478b24840a/2e6d51a3c3b9f9202b1a376d6398fe05.jpg",
+      "rating": 10
+    },
+    {
+      "id": "282f",
+      "name": "Apple iPhone 15 Pro dual-SIM 256 ГБ, «титановый бежевый»",
+      "price": 135990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/e9d/100500_800_140cd750bba9870f18aada2478b24840a/roz3q9ha09ioo79s9ivcqorz8nlgsjyz.jpg",
+      "rating": 9
+    },
+    {
+      "id": "cc03",
+      "name": "Apple iPhone 13, 256 ГБ, «сияющая звезда»",
+      "price": 82990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/2f9/100500_800_140cd750bba9870f18aada2478b24840a/2f9c5a4bb084e6db1f13cd8a12c66650.jpg",
+      "rating": 7
+    },
+    {
+      "id": "f263",
+      "name": "Apple iPhone 14 SIM 256 ГБ, (PRODUCT)RED",
+      "price": 92990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/66c/100500_800_140cd750bba9870f18aada2478b24840a/66cbe279307946bb9bb21d50a740e300.jpeg",
+      "rating": 7
+    },
+    {
+      "id": "e27b",
+      "name": "Apple iPhone 15 Pro dual-SIM 256 ГБ, «титановый чёрный»",
+      "price": 135990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/0b1/100500_800_140cd750bba9870f18aada2478b24840a/j2dhec0qnh9vmohtfab4dkxl1je2tk1z.jpg",
+      "rating": 7
+    },
+    {
+      "id": "7fe2",
+      "name": "Apple iPhone 15 Pro dual-SIM 256 ГБ, «титановый белый»",
+      "price": 135990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/fc3/100500_800_140cd750bba9870f18aada2478b24840a/juuv74fasn6rjyp5cu1cce04wz0ddba4.jpg",
+      "rating": 7
+    },
+    {
+      "id": "c184",
+      "name": "Apple iPad Air (2024) 11\" Wi-Fi 256 ГБ, «сияющая звезда»",
+      "price": 89990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/d44/100500_800_140cd750bba9870f18aada2478b24840a/ba2xwh8ibgq0p3q184mhk9ok7gevikr2.jpg",
+      "rating": 4
+    },
+    {
+      "id": "64ae",
+      "name": "Apple iPad Air (2024) 11\" Wi-Fi 128 ГБ, «серый космос»",
+      "price": 76990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/d9c/100500_800_140cd750bba9870f18aada2478b24840a/u7n3r3fuibswh2om0t5qojcvtkj3ovsm.jpg",
+      "rating": 4
+    },
+    {
+      "id": "03ae",
+      "name": "Apple iPad Air (2024) 13\" Wi-Fi 512 ГБ, синий",
+      "price": 144990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/710/100500_800_140cd750bba9870f18aada2478b24840a/z6i4rr5jendv5dy4e5h3xivi3cl69p24.jpg",
+      "rating": 5
+    },
+    {
+      "id": "0fad",
+      "name": "Apple iPad Air (2024) 13\" Wi-Fi + Cellular 1 ТБ, синий",
+      "price": 189990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/b4b/100500_800_140cd750bba9870f18aada2478b24840a/sgczjwlc90qgbbwrltbpvio0fuxdl3oc.jpg",
+      "rating": 6
+    },
+    {
+      "id": "84f0",
+      "name": "Apple iPad Air (2024) 13\" Wi-Fi 512 ГБ, синий",
+      "price": 144990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/710/100500_800_140cd750bba9870f18aada2478b24840a/z6i4rr5jendv5dy4e5h3xivi3cl69p24.jpg",
+      "rating": 6
+    },
+    {
+      "id": "3e17",
+      "name": "Apple Watch Ultra GPS + Cellular, 49 мм, корпус из титана, ремешок Trail желтого/бежевого цвета, размер M/L",
+      "price": 85990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/81b/100500_800_140cd750bba9870f18aada2478b24840a/81b5e77f7b83a5574e6aa0dcb03785b7.jpg",
+      "rating": 10
+    },
+    {
+      "id": "4b3c",
+      "name": "Apple Watch Ultra GPS + Cellular, 49 мм, корпус из титана, ремешок Alpine оранжевого цвета, размер M",
+      "price": 85990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/5a5/100500_800_140cd750bba9870f18aada2478b24840a/5a56f48482649f0152a1aefa02634a65.jpg",
+      "rating": 9
+    },
+    {
+      "id": "1636",
+      "name": "Apple Watch Ultra 2 GPS + Cellular, 49 мм, корпус из титана, ремешок Ocean оранжевого цвета",
+      "price": 99990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/428/100500_800_140cd750bba9870f18aada2478b24840a/ffiuw33bd4ubwampe8sjqe4s14w55k3j.jpg",
+      "rating": 8
+    },
+    {
+      "id": "e639",
+      "name": "Apple Watch Series 9, 41 мм, корпус из алюминия цвета «тёмная ночь», спортивный ремешок цвета «тёмная ночь»",
+      "price": 47990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/452/100500_800_140cd750bba9870f18aada2478b24840a/1yf1md0hnza97pgsoow0ip5brre0lwd4.jpg",
+      "rating": 6
+    },
+    {
+      "id": "1f1e",
+      "name": "Apple Watch Series 9, 41 мм, корпус из алюминия цвета «тёмная ночь», спортивный ремешок цвета «тёмная ночь», размер S/M",
+      "price": 47990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/3db/100500_800_140cd750bba9870f18aada2478b24840a/6l03akqlacknj6ffguuakqqxqc7efphe.jpg",
+      "rating": 6
+    },
+    {
+      "id": "986e",
+      "name": "Apple Watch Ultra 2 GPS + Cellular, 49 мм, корпус из титана, ремешок Ocean синего цвета",
+      "price": 99990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/dbb/100500_800_140cd750bba9870f18aada2478b24840a/rgg3oswbof2f1i4ox1x7ociautmnyzu2.jpg",
+      "rating": 6
+    },
+    {
+      "id": "2188",
+      "name": "Apple Watch Series 9, 45 мм, корпус из алюминия цвета «тёмная ночь», спортивный ремешок цвета «тёмная ночь», размер M/L",
+      "price": 50990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/687/100500_800_140cd750bba9870f18aada2478b24840a/bar79xbho0dww32wzrbj79246qnm8eqv.jpg",
+      "rating": 7
+    },
+    {
+      "id": "a077",
+      "name": "Apple Watch Ultra 2 GPS + Cellular, 49 мм, корпус из титана, ремешок Trail оранжевого/бежевого цвета, размер M/L",
+      "price": 99990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/ebd/100500_800_140cd750bba9870f18aada2478b24840a/h7e2kb8tq0f33n5z4c9xeqrx4oizmp18.jpg",
+      "rating": 8
+    },
+    {
+      "id": "574b",
+      "name": "Apple MacBook Air 13\" (M3, 8C CPU/8C GPU, 2024), 8 ГБ, 256 ГБ SSD, «полуночный черный»",
+      "price": 145990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/e7f/100500_800_140cd750bba9870f18aada2478b24840a/gllfdwcxt3b51odg02t1t5robs712837.jpg",
+      "rating": 7
+    },
+    {
+      "id": "0160",
+      "name": "Apple MacBook Air 13\" (M3, 8C CPU/8C GPU, 2024), 8 ГБ, 256 ГБ SSD, «серый космос»",
+      "price": 145990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/98c/100500_800_140cd750bba9870f18aada2478b24840a/qj2nupo8oduln8n6mbk7w85u7cu8l15j.jpg",
+      "rating": 7
+    },
+    {
+      "id": "e219",
+      "name": "Монитор Apple Pro Display XDR Retina 6K 32\", стандартное стекло (без подставки)",
+      "price": 829990,
+      "mainImage": "https://static.re-store.ru/upload/iblock/ffa/407ngm0tev27yeix5j569kz7d939grjs.jpg",
+      "rating": 7
+    },
+    {
+      "id": "de6b",
+      "name": "Apple iMac 24\" Retina 4,5K, M3 (8C CPU, 8C GPU, 2023), 8 ГБ, 256 ГБ SSD, серебристый",
+      "price": 199990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/673/100500_800_140cd750bba9870f18aada2478b24840a/ur6b7mldfnsqavj46mot0gpxcrr9re2e.jpg",
+      "rating": 8
+    },
+    {
+      "id": "6d2b",
+      "name": "Apple iMac 24\" Retina 4,5K, M3 (8C CPU, 8C GPU, 2023), 8 ГБ, 256 ГБ SSD, синий",
+      "price": 199990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/d17/100500_800_140cd750bba9870f18aada2478b24840a/oxgj07kjrgryz7a1cvmkkuvrc9hkkks2.jpg",
+      "rating": 8
+    },
+    {
+      "id": "f774",
+      "name": "Apple MacBook Air 13\" (M2, 8C CPU/8C GPU, 2022), 8 ГБ, 256 ГБ SSD, «полуночный черный»",
+      "price": 119990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/4dd/100500_800_140cd750bba9870f18aada2478b24840a/4dd1a382474ca2cfd0e70e916a356035.jpg",
+      "rating": 8
+    },
+    {
+      "id": "33d4",
+      "name": "Apple MacBook Air 13\" (M2, 8C CPU/8C GPU, 2022), 8 ГБ, 256 ГБ SSD, серебристый",
+      "price": 199990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/ef5/100500_800_140cd750bba9870f18aada2478b24840a/ef55a1bb87e5ed56944ecb30981c9f62.jpg",
+      "rating": 9
+    },
+    {
+      "id": "ae2f",
+      "name": "Apple MacBook Air 15\" (M2, 8C CPU/10C GPU, 2023), 16 ГБ, 1 ТБ SSD, «полуночный черный»",
+      "price": 224990,
+      "mainImage": "https://static.re-store.ru/upload/iblock/2f7/i5i4rkk088j7wq2dfg9l12zu06if7d6z.png",
+      "rating": 9
+    },
+    {
+      "id": "1ad2",
+      "name": "Apple MacBook Air 13\" (M3, 8C CPU/8C GPU, 2024), 8 ГБ, 256 ГБ SSD, «сияющая звезда»",
+      "price": 145990,
+      "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/5e9/100500_800_140cd750bba9870f18aada2478b24840a/t1xmeubl2ucd62tx5skxeusqgagezcuj.jpg",
+      "rating": 9
+    },
+    {
+      "id": "81e8",
+      "name": "Монитор Apple Pro Display XDR Retina 6K 32\", нанотекстурное стекло (без подставки)",
+      "price": 979990,
+      "mainImage": "https://static.re-store.ru/upload/iblock/252/duoqa8y0bjdoy84ceo3vhh5eowoeg3td.jpg",
+      "rating": 10
+    }
+  ],
   "iphone": [
     {
       "id": 22,
@@ -558,7 +791,6 @@
       "mainImage": "https://static.re-store.ru/upload/resize_cache/iblock/392/100500_800_140cd750bba9870f18aada2478b24840a/4rzitsau18zyhfmwxcl08im7y3rxrft0.jpg",
       "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/566/100500_800_140cd750bba9870f18aada2478b24840a/eostrs17nd00sxskk2msml6uwehspzws.jpg"
     },
-
     {
       "id": 71,
       "name": "Apple Watch Ultra GPS + Cellular, 49 мм, корпус из титана, ремешок Alpine оранжевого цвета, размер M",
@@ -762,7 +994,6 @@
       "secondImage": "https://static.re-store.ru/upload/iblock/0d1/25ak29czvpcuilx2y2agd2dtvtw7a1vy.jpg",
       "sadasdasd": "----------------------------------------------"
     },
-
     {
       "id": 96,
       "name": "Автомобильный держатель moonfish HQi-18 с БЗУ, MagSafe, 15 Вт, черный",
@@ -924,7 +1155,6 @@
       "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/996/100500_800_140cd750bba9870f18aada2478b24840a/zsqu1amg4c7kuecex8x0hzd4qod3dspd.jpg",
       "sadasd": " |------------------------------------------------------"
     },
-
     {
       "id": 117,
       "name": "Акустика портативная Klipsch Austin, черный",
@@ -1086,7 +1316,6 @@
       "secondImage": "https://static.re-store.ru/upload/resize_cache/iblock/117/100500_800_140cd750bba9870f18aada2478b24840a/gcewmqqbohp22hhlec8zwsmgd1cmoorn.jpg",
       "sa": "--------------------------------------------------"
     },
-
     {
       "id": 138,
       "name": "Ремешок Uniq Strova Steel для Apple Watch 42/44/45/49 мм, сталь, серебристый",

@@ -1,9 +1,16 @@
 import React from "react";
 import { image } from "../../image/image";
+import { useAddbasketMutation } from "../../api/basket";
 
-const Buttonproducts = () => {
+const Buttonproducts = ({ item }) => {
+  const [addInBasket] = useAddbasketMutation();
   const basket = () => {
-    alert("sdf");
+    addInBasket({
+      name: item.name,
+      price: item.price,
+      mainImage: item.mainImage,
+      rating: item.rating,
+    });
   };
   return (
     <div

@@ -3,6 +3,7 @@ export const image = {
   basket: "https://cdn-icons-png.flaticon.com/128/711/711897.png",
   favorites: "https://cdn-icons-png.flaticon.com/128/2589/2589197.png",
   basket_arrow: "https://cdn-icons-png.flaticon.com/128/758/758911.png",
+  clear_basket: "https://cdn-icons-png.flaticon.com/128/14787/14787769.png",
   accessoriesmac:
     "https://static.re-store.ru/upload/resize_cache/iblock/1af/10500_600_140cd750bba9870f18aada2478b24840a/1af4214bc6f6a2a7b7dbd484005e000d.jpeg",
   accessoriesiphone:

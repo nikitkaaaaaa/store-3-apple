@@ -88,17 +88,41 @@
 }
 .products:hover {
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
-  transition: 0.2s ease; /* Добавляем плавный переход */
+  transition: 0.2s ease;
 }
 .products:hover .image_product {
   transform: scale(1.1);
-  transition: 0.2s ease; /* Добавляем плавный переход */
+  transition: 0.2s ease;
   cursor: pointer;
 }
-.image_product {
-  /* border: 1px solid purple; */
-}
+
 .name_product:hover {
   color: rgb(0, 88, 160);
   cursor: pointer;
+}
+.contenier_basket {
+  border: 2px solid blue;
+  width: 60%;
+  margin: left;
+}
+.products_basket {
+  border: 2px solid rgb(165, 165, 165);
+  display: flex;
+  padding: 20px 40px;
+  align-items: center;
+  border-radius: 15px;
+  margin: 20px 10px;
+  justify-content: space-between;
+  cursor: pointer;
+}
+.image_basket {
+  width: 60px;
+  height: 70px;
+}
+.model_basket {
+  border: 2px solid rgb(0, 88, 160);
+  width: 300px;
+  height: 200px;
+  border-radius: 30px;
+  padding: 24px 20px;
 }
