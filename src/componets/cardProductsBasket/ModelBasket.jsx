@@ -18,15 +18,21 @@ const ModelBasket = () => {
         <h1 style={{ fontSize: "24px" }}>Корзина</h1>
         <div style={{ color: "gray" }}>{data.length} товаров</div>
       </div>
-      <div>Товаров ({data.length})</div>
-      <div style={{ borderBottom: "1px solid gray" }}></div>
-      <div style={{ display: "flex", justifyContent: "space-between" }}>
+      <div style={{ paddingTop: "20px" }}>Товаров ({data.length})</div>
+      <div style={{ borderBottom: "1px solid gray", paddingTop: "20px" }}></div>
+      <div
+        style={{
+          display: "flex",
+          justifyContent: "space-between",
+          paddingTop: "20px",
+        }}
+      >
         <div>Сумма</div>
         <div>
           <b>{total_price_basket}</b> ₽
         </div>
       </div>
-      <div style={{ margin: "auto" }}>
+      <div style={{ textAlign: "center", paddingTop: "20px" }}>
         <button
           style={{
             cursor: "pointer",

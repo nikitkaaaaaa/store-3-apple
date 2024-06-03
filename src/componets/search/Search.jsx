@@ -17,6 +17,7 @@ const Search = ({ onSearch }) => {
           padding: "5px 10px",
           border: "1px solid gray",
           borderRadius: "5px",
+          outline: "none",
         }}
       />
     </div>

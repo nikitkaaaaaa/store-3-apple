@@ -4,6 +4,7 @@ import NameProductBasket from "./NameProductBasket";
 import PriceProductBasket from "./PriceProductBasket";
 import DelteProductsBasket from "./DelteProductsBasket";
 import Reminder from "./Reminder";
+import FavoritesProduct from "../cardProducts/FavoritesProduct";
 
 const CardProductsBasket = ({ data }) => {
   return (
@@ -15,7 +16,15 @@ const CardProductsBasket = ({ data }) => {
             <NameProductBasket name={item.name} />
           </div>
           <PriceProductBasket price={item.price} />
-          <DelteProductsBasket />
+          <div
+            style={{
+              display: "flex",
+              alignItems: "center",
+            }}
+          >
+            <FavoritesProduct />
+            <DelteProductsBasket id={item.id} />
+          </div>
         </div>
       ))}
       <Reminder />

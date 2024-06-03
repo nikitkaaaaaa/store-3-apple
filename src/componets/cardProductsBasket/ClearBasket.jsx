@@ -1,9 +1,12 @@
 import React from "react";
 import { image } from "../../image/image";
 
-const ClearBasket = () => {
+const ClearBasket = ({ onClick }) => {
   return (
-    <div style={{ display: " flex", alignItems: "center" }}>
+    <div
+      style={{ display: "flex", alignItems: "center", cursor: "pointer" }}
+      onClick={onClick}
+    >
       <img
         src={image.clear_basket}
         alt=""

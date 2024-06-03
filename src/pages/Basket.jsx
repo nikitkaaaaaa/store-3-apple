@@ -1,5 +1,5 @@
 import React from "react";
-import { useGetbasketQuery } from "../api/basket";
+import { useGetbasketQuery, useRemoveToBasketMutation } from "../api/basket";
 import LengthBasket from "../componets/cardProductsBasket/LengthBasket";
 import ClearBasket from "../componets/cardProductsBasket/ClearBasket";
 import CardProductsBasket from "../componets/cardProductsBasket/CardProductsBasket";
@@ -9,7 +9,15 @@ import ModelBasket from "../componets/cardProductsBasket/ModelBasket";
 
 const Basket = () => {
   const { data = [] } = useGetbasketQuery();
+  const [removeToBasket] = useRemoveToBasketMutation();
   const navigateToMain = Navigatepage(routes.main);
+
+  const handleClearBasket = () => {
+    data.forEach((item) => {
+      removeToBasket(item.id);
+    });
+  };
+
   return (
     <div style={{ display: "flex" }}>
       <div className="contenier_basket">
@@ -31,17 +39,18 @@ const Basket = () => {
         </div>
         <div
           style={{
-            border: "1px solid purple",
             display: "flex",
             justifyContent: "space-between",
           }}
         >
           <LengthBasket />
-          <ClearBasket />
+          <ClearBasket onClick={handleClearBasket} />
         </div>
         <CardProductsBasket data={data} />
       </div>
-      <ModelBasket />
+      <div style={{ paddingLeft: "50px", paddingTop: "25px" }}>
+        <ModelBasket />
+      </div>
     </div>
   );
 };

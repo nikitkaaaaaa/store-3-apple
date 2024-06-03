@@ -1,7 +1,8 @@
 export const image = {
   avatar: "https://cdn-icons-png.flaticon.com/128/644/644458.png",
-  basket: "https://cdn-icons-png.flaticon.com/128/711/711897.png",
+  basket: "https://cdn-icons-png.flaticon.com/128/6330/6330128.png",
   favorites: "https://cdn-icons-png.flaticon.com/128/2589/2589197.png",
+  favorites_hover: "https://cdn-icons-png.flaticon.com/128/10335/10335557.png",
   basket_arrow: "https://cdn-icons-png.flaticon.com/128/758/758911.png",
   clear_basket: "https://cdn-icons-png.flaticon.com/128/14787/14787769.png",
   accessoriesmac:
