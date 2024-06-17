@@ -6,6 +6,7 @@ import CardProductsBasket from "../componets/cardProductsBasket/CardProductsBask
 import { Navigatepage } from "../functtion/Navigatepage";
 import { routes } from "../routes/routes";
 import ModelBasket from "../componets/cardProductsBasket/ModelBasket";
+import EmptyBasket from "../componets/emptyProducts/EmptyBasket";
 
 const Basket = () => {
   const { data = [] } = useGetbasketQuery();
@@ -19,9 +20,15 @@ const Basket = () => {
   };
 
   return (
-    <div style={{ display: "flex" }}>
+    <div
+      style={{
+        display: "flex",
+        width: "1280px",
+        margin: "auto",
+      }}
+    >
       <div className="contenier_basket">
-        <div style={{ paddingBottom: "20px" }}>
+        <div style={{ paddingBottom: "50px", paddingTop: "50px" }}>
           <span onClick={navigateToMain} style={{ cursor: "pointer" }}>
             Главная
           </span>
@@ -37,20 +44,26 @@ const Basket = () => {
           />
           <span style={{ color: "gray", cursor: "pointer" }}>Корзина</span>
         </div>
-        <div
-          style={{
-            display: "flex",
-            justifyContent: "space-between",
-          }}
-        >
-          <LengthBasket />
-          <ClearBasket onClick={handleClearBasket} />
+        {data.length >= 1 ? (
+          <div
+            style={{
+              display: "flex",
+              justifyContent: "space-between",
+            }}
+          >
+            <LengthBasket />
+            <ClearBasket onClick={handleClearBasket} />
+          </div>
+        ) : (
+          <EmptyBasket />
+        )}
+        {data.length >= 1 && <CardProductsBasket data={data} />}
+      </div>
+      {data.length >= 1 && (
+        <div style={{ paddingLeft: "20px", paddingTop: "110px" }}>
+          <ModelBasket />
         </div>
-        <CardProductsBasket data={data} />
-      </div>
-      <div style={{ paddingLeft: "50px", paddingTop: "25px" }}>
-        <ModelBasket />
-      </div>
+      )}
     </div>
   );
 };

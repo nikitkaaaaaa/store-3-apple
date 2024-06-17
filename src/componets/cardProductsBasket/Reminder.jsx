@@ -2,7 +2,7 @@ import React from "react";
 
 const Reminder = () => {
   return (
-    <div>
+    <div style={{ paddingTop: "10px" }}>
       <div
         style={{
           color: "rgb(10,132,255)",
@@ -10,7 +10,6 @@ const Reminder = () => {
           background: "rgb(233,245,255)",
           display: "flex",
           alignItems: "center",
-          border: "1px solid",
           borderRadius: "15px",
         }}
       >

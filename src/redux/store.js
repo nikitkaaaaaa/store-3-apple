@@ -5,6 +5,8 @@ import { mac } from "../api/mac";
 import { watch } from "../api/watch";
 import { accessories } from "../api/accessories";
 import { basket } from "../api/basket";
+import { favorites } from "../api/favorites";
+import checkCartPopup from "./checkCartPopup";
 
 const store = configureStore({
   reducer: {
@@ -14,6 +16,8 @@ const store = configureStore({
     [watch.reducerPath]: watch.reducer,
     [accessories.reducerPath]: accessories.reducer,
     [basket.reducerPath]: basket.reducer,
+    [favorites.reducerPath]: favorites.reducer,
+    checkCartPopup: checkCartPopup,
   },
   middleware: (getmiddleware) =>
     getmiddleware().concat(
@@ -22,7 +26,8 @@ const store = configureStore({
       mac.middleware,
       watch.middleware,
       accessories.middleware,
-      basket.middleware
+      basket.middleware,
+      favorites.middleware
     ),
 });
 export default store;

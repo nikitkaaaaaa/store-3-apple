@@ -5,13 +5,20 @@ import PriceProductBasket from "./PriceProductBasket";
 import DelteProductsBasket from "./DelteProductsBasket";
 import Reminder from "./Reminder";
 import FavoritesProduct from "../cardProducts/FavoritesProduct";
+import { useAutoAnimate } from "@formkit/auto-animate/react";
 
 const CardProductsBasket = ({ data }) => {
+  const [parent, enableAnimations] = useAutoAnimate(/* optional config */);
   return (
-    <div>
+    <div ref={parent}>
       {data.map((item) => (
         <div className="products_basket" key={item.id}>
-          <div style={{ display: "flex", alignItems: "center" }}>
+          <div
+            style={{
+              display: "flex",
+              alignItems: "center",
+            }}
+          >
             <ImageProductsBasket image={item.mainImage} />
             <NameProductBasket name={item.name} />
           </div>
@@ -22,7 +29,7 @@ const CardProductsBasket = ({ data }) => {
               alignItems: "center",
             }}
           >
-            <FavoritesProduct />
+            <FavoritesProduct item={item} />
             <DelteProductsBasket id={item.id} />
           </div>
         </div>

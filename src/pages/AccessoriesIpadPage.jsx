@@ -1,30 +1,28 @@
 import React, { useEffect, useState } from "react";
 import CardProduct from "../componets/cardProducts/CardProduct";
-import { useGetMacQuery } from "../api/mac";
-import { filterproducts } from "../filterproducts/filterproducts";
 import Search from "../componets/search/Search";
 import Choise from "../componets/choise/Choise";
-
-const MacPage = () => {
-  const { data = [] } = useGetMacQuery();
+import { filterproducts } from "../filterproducts/filterproducts";
+import { useGetAccessoriesQuery } from "../api/accessories";
+const AccessoriesIpadPage = () => {
+  const { data = [] } = useGetAccessoriesQuery();
+  const iPad_accessories = data.slice(41, 64);
   const [search, setsearch] = useState("");
   const [choise, setchoise] = useState("rating");
   const [filterData, setfilterData] = useState([]);
   const style = {
-    width: "130px",
-    height: "80px",
+    width: "100px",
+    height: "130px",
     display: "flex",
-    color: "red",
     position: "relative",
   };
   useEffect(() => {
-    let filter = filterproducts(data, search, choise);
+    let filter = filterproducts(iPad_accessories, search, choise);
     setfilterData(filter);
-  }, [data, search, choise]);
-
+  }, [iPad_accessories, search, choise]);
   return (
     <div>
-      <h1 className="name_category">Mac</h1>
+      <h1 className="name_category">Аксессуары для iPad</h1>
       <div className="filter_product">
         <Search onSearch={setsearch} />
         <Choise onChoise={setchoise} />
@@ -33,4 +31,5 @@ const MacPage = () => {
     </div>
   );
 };
-export default MacPage;
+
+export default AccessoriesIpadPage;
